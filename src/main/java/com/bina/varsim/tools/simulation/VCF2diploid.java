@@ -359,7 +359,7 @@ public class VCF2diploid extends VarSimTool {
         index for end, and it should not exceed length of original
         sequence.
          */
-        if (position > maskedSequence.length || position + referenceAlleleLength - 1> maskedSequence.length) {
+        if (position > maskedSequence.length || position + referenceAlleleLength - 1 > maskedSequence.length) {
             log.warn("Variant out of chromosome bounds at "
                     + referenceSequence.getName() + ":" + position + ", (referenceAlleleLength,insertions) of (" + referenceAlleleLength
                     + "," + Arrays.toString(insertions) + "). Skipping.");
@@ -372,11 +372,11 @@ public class VCF2diploid extends VarSimTool {
          */
         if (referenceAlleleLength == 0) {//insertion or duplication
             // insertions may not be surrounded by deletions
-                if (maskedSequence[position - 1] == DELETED_BASE &&
-                        (position >= 2 && maskedSequence[position - 2] == DELETED_BASE)) {
-                    overlap = true;
-                    log.warn("Variant (" + variant + ") is surrounded by deleted bases.");
-                }
+            if (maskedSequence[position - 1] == DELETED_BASE &&
+                    (position >= 2 && maskedSequence[position - 2] == DELETED_BASE)) {
+                overlap = true;
+                log.warn("Variant (" + variant + ") is surrounded by deleted bases.");
+            }
         } else {
             for (int p = position; p < position + referenceAlleleLength; p++) {
                 // if any location of this variant overlap a deleted base or a SNP, we skip it
@@ -403,6 +403,7 @@ public class VCF2diploid extends VarSimTool {
             }
             return false;
         }
+
 
         if (referenceAlleleLength == 1 && (insertions != null && insertions.length == 1)) { // SNP
             // this is to maintain the reference repeat annotations
@@ -442,6 +443,7 @@ public class VCF2diploid extends VarSimTool {
                 }
                 return false;
             }
+
             //TODO: wrap insertion generation in Variant class
             if (variantType == VariantType.Translocation_Duplication || variantType == VariantType.Interspersed_Duplication) {
                   if (variant.isInversed()) {

@@ -211,8 +211,7 @@ public class IntervalTree<Key extends Interval1D> {
                 } else {
                     rightHeightChange = add(head.getRight(), head, k);
                 }
-            }
-        }
+            }        }
 
         // Determine the change in height of tree at head
         int headHeightChange = 0;
@@ -325,7 +324,15 @@ public class IntervalTree<Key extends Interval1D> {
     public boolean contains(Interval1D k, double reciprocalRatio, int wiggle) {
         return contains(root, k, reciprocalRatio, wiggle);
     }
-
+public boolean containing (IntervalTreeNode<Key> head, Interval1D k, double reciprocalRatio, int wiggle){
+    if (contains(head.getLeft(), k, reciprocalRatio, wiggle)) {
+        return true;
+    }
+    if (contains(head.getRight(), k, reciprocalRatio, wiggle)) {
+        return true;
+    }
+    return false;
+}
     /**
      * @param head Start searching at this node
      * @param k    Key to search for
@@ -340,12 +347,7 @@ public class IntervalTree<Key extends Interval1D> {
         }
         int compVal = head.checkKey(k);
         if (compVal == 0) {
-            if (contains(head.getLeft(), k, reciprocalRatio, wiggle)) {
-                return true;
-            }
-            if (contains(head.getRight(), k, reciprocalRatio, wiggle)) {
-                return true;
-            }
+            containing (head,k,reciprocalRatio,wiggle);
         } else if (compVal < 0) {
             if (contains(head.getLeft(), k, reciprocalRatio, wiggle)) {
                 return true;

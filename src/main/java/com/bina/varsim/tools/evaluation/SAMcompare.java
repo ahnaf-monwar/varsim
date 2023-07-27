@@ -159,7 +159,7 @@ public class SAMcompare extends VarSimTool {
 
                     // parse the name
                     // TODO need to check for errors here
-                    int pair_idx = rec.getReadPairedFlag() ? getPairIdx(rec.getFirstOfPairFlag()): 0;
+                    int pair_idx = rec.getReadPairedFlag() ? getPairIdx(rec.getFirstOfPairFlag()) : 0;
                     log.trace("Getting true locations for read " + name);
                     final Collection<GenomeLocation> trueLoci = readMap != null ? readMap.getReadMapRecord(name).getUnclippedStarts(pair_idx) : new SimulatedRead(name).getLocs(pair_idx);
 
@@ -203,14 +203,14 @@ public class SAMcompare extends VarSimTool {
                     } else {
                         /*
                          * some explanations about how an alignment is classified as TP or FP
-                          *
-                          * 1) if a read is aligned to correct location, then it is for sure TP
-                          * 2) if a read is not aligned to correct location, but has very high identity (true multi-alignment), then TP
-                          * 3) if a read is not aligned to correct location, doesn't have very high identity, but is assigned very informative mapq (low), then TP
-                          * 4) if a read is supposed to be unmapped, but is mapped given low identity and is assigned high mapq, then FP
-                          * 5) if a read is aligned, not FP, then it is TP
-                          *
-                          *
+                         *
+                         * 1) if a read is aligned to correct location, then it is for sure TP
+                         * 2) if a read is not aligned to correct location, but has very high identity (true multi-alignment), then TP
+                         * 3) if a read is not aligned to correct location, doesn't have very high identity, but is assigned very informative mapq (low), then TP
+                         * 4) if a read is supposed to be unmapped, but is mapped given low identity and is assigned high mapq, then FP
+                         * 5) if a read is aligned, not FP, then it is TP
+                         *
+                         *
                          */
                         // check if the it mapped to the correct location
                         boolean closeAln = false;
@@ -253,6 +253,8 @@ public class SAMcompare extends VarSimTool {
             // output the statistics
             log.info("Statistics for all reads");
             log.info(outputBlob.getStats());
+
+
 
             // output a JSON object
             ObjectMapper mapper = new ObjectMapper();

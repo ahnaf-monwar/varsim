@@ -1,0 +1,21 @@
+Project Name,Package Name,Type Name,Testability Smell,Cause of the Smell
+Varsim,com.bina.varsim.constants,Constant,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: SVLEN; MAX_VCF_COMPARE_WARNING_REPEAT; MAX_VCF_PARSER_WARNING_REPEAT; DISTANCE_METRIC_BIN_COUNT; MAX_BIN_CAPACITY
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: SEPARATOR
+Varsim,com.bina.varsim.fastqLiftover.types,MafRecord.MafEntry,Global State,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlocks,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: log; MIN_LENGTH_INTERVAL
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,Excessive Dependency,The tool detected the smell in this class because the class depends on too many dependencies. The total number of dependencies is: 15
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: DELETED_BASE
+Varsim,com.bina.varsim.types,FlexSeq,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: LEGAL_SEQUENCE_CHARS
+Varsim,com.bina.varsim.types,FlexSeq.Builder,Global State,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Varsim,com.bina.varsim.types,ParentRecord,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: PATERNAL; MATERNAL
+Varsim,com.bina.varsim.types,ReadMapBlock,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: SEPARATOR
+Varsim,com.bina.varsim.types,ReadMapRecord,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: COLUMN_SEPARATOR; MAP_BLOCK_SEPARATOR
+Varsim,com.bina.varsim.types,Sequence,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: a; c; g; t; n; A; C; G; T; N
+Varsim,com.bina.varsim.types.constraint,UnsatisfiedConstraintException.valuePair,Global State,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Varsim,com.bina.varsim.types.variant.alt,Alt.SymbolicAllele,Global State,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Varsim,com.bina.varsim.types.variant.alt,Alt.Breakend,Global State,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Varsim,com.bina.varsim.types.variant,Variant.Builder,Global State,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Varsim,com.bina.varsim.util,DGVparser,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: DGV_HEADER_START; DGV_COLUMN_SEPARATOR
+Varsim,com.bina.varsim.util,VCFparser,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: DEFAULT_FILTER
+Varsim,com.bina.varsim.util,VCFparser,Excessive Dependency,The tool detected the smell in this class because the class depends on too many dependencies. The total number of dependencies is: 8
+Varsim,com.bina.varsim,GlobalTestingOptions,Global State,The tool detected the smell in this class because the class declares global variables. The detected global variables are: updateVCF

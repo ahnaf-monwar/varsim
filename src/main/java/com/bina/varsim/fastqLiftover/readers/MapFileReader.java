@@ -1,6 +1,7 @@
 package com.bina.varsim.fastqLiftover.readers;
 
 import com.bina.varsim.fastqLiftover.types.MapBlock;
+import com.bina.varsim.fastqLiftover.types.MapParameters;
 import com.bina.varsim.types.ChrString;
 
 import java.io.File;
@@ -29,7 +30,7 @@ public class MapFileReader {
             if (size <= 0) {
                 throw new IllegalArgumentException("Encountered invalid size " + size);
             }
-            mapBlock = new MapBlock(size, srcChr, srcLocation, dstChr, dstLocation, direction, featureType, featureName);
+            mapBlock = new MapBlock(new MapParameters(size, srcChr, srcLocation, dstChr), dstLocation, direction, featureType, featureName);
         }
         return mapBlock;
     }

@@ -2,17 +2,12 @@ package com.bina.varsim.fastqLiftover;
 
 import com.bina.varsim.VarSimTool;
 import com.bina.varsim.VarSimToolNamespace;
-import com.bina.varsim.fastqLiftover.readers.ARTPairedFastqAlnReader;
-import com.bina.varsim.fastqLiftover.readers.DWGSIMPairedFastqReader;
-import com.bina.varsim.fastqLiftover.readers.PBSIMFastqReader;
-import com.bina.varsim.fastqLiftover.readers.PairedFastqReader;
+import com.bina.varsim.fastqLiftover.readers.*;
 import com.bina.varsim.fastqLiftover.types.GenomeLocation;
 import com.bina.varsim.fastqLiftover.types.MapBlocks;
 import com.bina.varsim.fastqLiftover.types.SimulatedReadPair;
 import org.apache.commons.codec.binary.Base64;
 import org.apache.log4j.Logger;
-import org.kohsuke.args4j.CmdLineException;
-import org.kohsuke.args4j.CmdLineParser;
 import org.kohsuke.args4j.Option;
 
 import java.io.*;
@@ -118,7 +113,7 @@ public class FastqLiftOver extends VarSimTool {
         LineNumberReader brFastq2 = new LineNumberReader(new InputStreamReader(decompressStream(fastqFiles.get(1))));
         LineNumberReader brAln2 = new LineNumberReader(new InputStreamReader(decompressStream(alnFiles.get(1))));
 
-        doLiftOverPairedFastq(mapBlocks, new ARTPairedFastqAlnReader(brAln1, brFastq1, brAln2, brFastq2, forceFiveBaseEncoding), ps1, ps2);
+        doLiftOverPairedFastq(mapBlocks, new ARTPairedFastqAlnReader(new ArtPairedParameters(brAln1, brFastq1, brAln2, brFastq2), forceFiveBaseEncoding), ps1, ps2);
     }
 
     public void doLiftOverDwgsimFastqMap(final MapBlocks mapBlocks, final PrintStream ps1, final PrintStream ps2) throws IOException {

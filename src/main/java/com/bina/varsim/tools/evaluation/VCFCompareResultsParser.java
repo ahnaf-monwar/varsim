@@ -1,14 +1,9 @@
 package com.bina.varsim.tools.evaluation;
 
-import com.bina.intervalTree.SimpleInterval1D;
-import com.bina.intervalTree.ValueInterval1D;
 import com.bina.varsim.VarSimTool;
 import com.bina.varsim.VarSimToolNamespace;
 import com.bina.varsim.constants.Constant;
 import com.bina.varsim.types.BedFile;
-import com.bina.varsim.types.ChrString;
-import com.bina.varsim.types.Genotypes;
-import com.bina.varsim.types.constraint.UnsatisfiedConstraintException;
 import com.bina.varsim.types.stats.EnumStatsRatioCounter;
 import com.bina.varsim.types.stats.StatsNamespace;
 import com.bina.varsim.types.variant.Variant;
@@ -24,7 +19,6 @@ import org.kohsuke.args4j.Option;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.*;
 import java.util.stream.Stream;
 
 import static com.bina.varsim.types.ComparisonResultWriter.*;
@@ -113,10 +107,10 @@ public class VCFCompareResultsParser extends VarSimTool {
         log.info("Using " + bedFilename + " to intersect.");
         BedFile intersector = bedFilename == null ? null : new BedFile(bedFilename, bedEither);
 
-        countVariants(StatsNamespace.TP, tpVcfFilename, outputBlob, intersector, ignoreInsertionLength);
-        countVariants(StatsNamespace.FP, fpVcfFilename, outputBlob, intersector, ignoreInsertionLength);
-        countVariants(StatsNamespace.FN, fnVcfFilename, outputBlob, intersector, ignoreInsertionLength);
-        countVariants(StatsNamespace.T, tVcfFilename, outputBlob, intersector, ignoreInsertionLength);
+        countVariants(new countVariantsParameters(StatsNamespace.TP, tpVcfFilename, outputBlob, intersector, ignoreInsertionLength));
+        countVariants(new countVariantsParameters(StatsNamespace.FP, fpVcfFilename, outputBlob, intersector, ignoreInsertionLength));
+        countVariants(new countVariantsParameters(StatsNamespace.FN, fnVcfFilename, outputBlob, intersector, ignoreInsertionLength));
+        countVariants(new countVariantsParameters(StatsNamespace.T, tVcfFilename, outputBlob, intersector, ignoreInsertionLength));
 
         try(
                 PrintWriter jsonWriter = JSON_WRITER.getWriter(outPrefix);) {
@@ -155,21 +149,19 @@ public class VCFCompareResultsParser extends VarSimTool {
     /**
      * count variants per resultClass, optionally filter against a BED file if specified
      *
-     * @param resultClass class of the file, i.e. true positive, false positive or false negative
-     * @param filename VCF containing variants
-     * @param intersector BED file object
+     * @param countVariantsParameters
      */
-    private void countVariants(final StatsNamespace resultClass, final String filename, outputClass outputBlob, BedFile intersector, boolean ignoreInsertionLength) {
-        VCFparser vcfParser = new VCFparser(filename, null, false, ignoreInsertionLength);
+    private void countVariants(countVariantsParameters countVariantsParameters) {
+        VCFparser vcfParser = new VCFparser(countVariantsParameters.getFilename(), null, false, countVariantsParameters.isIgnoreInsertionLength());
         PrintWriter vcfWriter = null;
         try {
-            if (resultClass == StatsNamespace.TP) {
+            if (countVariantsParameters.getResultClass() == StatsNamespace.TP) {
                 vcfWriter = tp_WRITER.getWriter(outPrefix);
-            } else if (resultClass == StatsNamespace.T) {
+            } else if (countVariantsParameters.getResultClass() == StatsNamespace.T) {
                 vcfWriter = t_WRITER.getWriter(outPrefix);
-            } else if (resultClass == StatsNamespace.FN) {
+            } else if (countVariantsParameters.getResultClass() == StatsNamespace.FN) {
                 vcfWriter = fn_WRITER.getWriter(outPrefix);
-            } else if (resultClass == StatsNamespace.FP) {
+            } else if (countVariantsParameters.getResultClass() == StatsNamespace.FP) {
                 vcfWriter = fp_WRITER.getWriter(outPrefix);
             } else {
                 throw new IllegalArgumentException();
@@ -177,11 +169,11 @@ public class VCFCompareResultsParser extends VarSimTool {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        vcfWriter.write(new VCFparser(filename, null, false).extractHeader());
+        vcfWriter.write(new VCFparser(countVariantsParameters.getFilename(), null, false).extractHeader());
         while (vcfParser.hasMoreInput()) {
             Variant currentVariant = vcfParser.parseLine();
-            if (intersector != null && currentVariant != null) {
-                if (intersector.containsEndpoints(currentVariant.getChr(),
+            if (countVariantsParameters.getIntersector() != null && currentVariant != null) {
+                if (countVariantsParameters.getIntersector().containsEndpoints(currentVariant.getChr(),
                         currentVariant.getGenotypeUnionAlternativeInterval())) {
                 } else {
                     currentVariant = null;
@@ -191,14 +183,14 @@ public class VCFCompareResultsParser extends VarSimTool {
                 continue;
             }
             vcfWriter.write(currentVariant.toString() + "\n");
-            if (resultClass == StatsNamespace.FP) {
-                outputBlob.getNumberOfTrueCorrect().incFP(currentVariant.getType(), currentVariant.maxLen());
-            } else if (resultClass == StatsNamespace.TP) {
-                outputBlob.getNumberOfTrueCorrect().incTP(currentVariant.getType(), currentVariant.maxLen());
-                outputBlob.getNumberOfTrueCorrect().incT(currentVariant.getType(), currentVariant.maxLen());
-            } else if (resultClass == StatsNamespace.FN) {
-                outputBlob.getNumberOfTrueCorrect().incT(currentVariant.getType(), currentVariant.maxLen());
-            } else if (resultClass == StatsNamespace.T) {
+            if (countVariantsParameters.getResultClass() == StatsNamespace.FP) {
+                countVariantsParameters.getOutputBlob().getNumberOfTrueCorrect().incFP(currentVariant.getType(), currentVariant.maxLen());
+            } else if (countVariantsParameters.getResultClass() == StatsNamespace.TP) {
+                countVariantsParameters.getOutputBlob().getNumberOfTrueCorrect().incTP(currentVariant.getType(), currentVariant.maxLen());
+                countVariantsParameters.getOutputBlob().getNumberOfTrueCorrect().incT(currentVariant.getType(), currentVariant.maxLen());
+            } else if (countVariantsParameters.getResultClass() == StatsNamespace.FN) {
+                countVariantsParameters.getOutputBlob().getNumberOfTrueCorrect().incT(currentVariant.getType(), currentVariant.maxLen());
+            } else if (countVariantsParameters.getResultClass() == StatsNamespace.T) {
               //do nothing assuming FN+TP=T
             } else {
                 throw new IllegalArgumentException();

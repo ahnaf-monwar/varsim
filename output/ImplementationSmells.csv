@@ -1,0 +1,669 @@
+Project Name,Package Name,Type Name,Method Name,Implementation Smell,Cause of the Smell,Method start line no
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 10,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 5,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 10,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 5,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 15,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 10,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 10,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 11,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 15,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 15,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 10,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 15,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 40,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 60,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 70,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 70,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 30,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 34,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 35,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 35,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 45,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 45,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 55,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 55,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 65,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 65,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 75,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 75,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 85,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 85,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 55,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 55,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 50,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 50,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 51,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 51,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 52,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 52,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 53,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 53,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 54,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 54,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 10,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 10,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 30,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 30,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 40,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 40,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 50,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 50,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 60,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 60,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 70,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 70,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 21,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 22,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 30,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 31,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 21,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 22,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 30,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 31,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 20,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 45,44
+Varsim,com.bina.intervalTree,IntervalTree,main,Magic Number,The method contains a magic number: 45,44
+Varsim,com.bina.intervalTree,IntervalTree,add,Complex Method,Cyclomatic complexity of the method is 18,177
+Varsim,com.bina.intervalTree,IntervalTree,contains,Complex Method,Cyclomatic complexity of the method is 9,329
+Varsim,com.bina.intervalTree,IntervalTree,rotateRight,Magic Number,The method contains a magic number: 2,389
+Varsim,com.bina.intervalTree,IntervalTree,rotateRight,Magic Number,The method contains a magic number: 2,389
+Varsim,com.bina.intervalTree,IntervalTree,rotateLeft,Magic Number,The method contains a magic number: 2,452
+Varsim,com.bina.intervalTree,IntervalTree,rotateLeft,Magic Number,The method contains a magic number: 2,452
+Varsim,com.bina.intervalTree,SimpleInterval1D,SimpleInterval1D,Magic Number,The method contains a magic number: 2,17
+Varsim,com.bina.intervalTree,SimpleInterval1D,SimpleInterval1D,Magic Number,The method contains a magic number: 2,17
+Varsim,com.bina.intervalTree,SimpleInterval1D,SimpleInterval1D,Magic Number,The method contains a magic number: 2,17
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 15,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 30,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 20,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 30,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 15,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 20,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 31,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 35,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 0.5,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,main,Magic Number,The method contains a magic number: 5,65
+Varsim,com.bina.intervalTree,SimpleInterval1D,intersects,Long Statement,The length of the statement "long maxOverlap=Math.min(this.getRight() + maxAllowedShift`that.getRight()) - Math.max(this.getLeft() + maxAllowedShift`that.getLeft()) + 1l;" is 141.,161
+Varsim,com.bina.intervalTree,SimpleInterval1D,getCenter,Magic Number,The method contains a magic number: 2.0,234
+Varsim,com.bina.intervalTree,SimpleInterval1D,getCenter,Magic Number,The method contains a magic number: 2.0,234
+Varsim,com.bina.intervalTree,SimpleInterval1D,hashCode,Magic Number,The method contains a magic number: 32,258
+Varsim,com.bina.intervalTree,SimpleInterval1D,hashCode,Magic Number,The method contains a magic number: 31,258
+Varsim,com.bina.intervalTree,SimpleInterval1D,hashCode,Magic Number,The method contains a magic number: 32,258
+Varsim,com.bina.intervalTree,ValueInterval1D,hashCode,Magic Number,The method contains a magic number: 31,47
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,setUp,Magic Number,The method contains a magic number: 10,13
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,setUp,Magic Number,The method contains a magic number: 11,13
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,setUp,Magic Number,The method contains a magic number: 20,13
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,setUp,Magic Number,The method contains a magic number: 5,13
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,setUp,Magic Number,The method contains a magic number: 15,13
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testLength,Magic Number,The method contains a magic number: 11,20
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testLength,Magic Number,The method contains a magic number: 10,20
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testLength,Magic Number,The method contains a magic number: 11,20
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects1,Magic Number,The method contains a magic number: 0.5,33
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects1,Magic Number,The method contains a magic number: 0.5,33
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects1,Magic Number,The method contains a magic number: 0.55,33
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects1,Magic Number,The method contains a magic number: 0.55,33
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects2,Magic Number,The method contains a magic number: 0.5,40
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects2,Magic Number,The method contains a magic number: 6,40
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects2,Magic Number,The method contains a magic number: 0.5,40
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects2,Magic Number,The method contains a magic number: 6,40
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects2,Magic Number,The method contains a magic number: 0.55,40
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testIntersects2,Magic Number,The method contains a magic number: 0.55,40
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testContains,Magic Number,The method contains a magic number: 10,47
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testContains,Magic Number,The method contains a magic number: 11,47
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testCompareTo,Magic Number,The method contains a magic number: 10,54
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testUnion,Magic Number,The method contains a magic number: 20,59
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testGetCenter,Magic Number,The method contains a magic number: 5,63
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testRandomIntervals,Magic Number,The method contains a magic number: 10000,67
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testRandomIntervals,Magic Number,The method contains a magic number: 100000,67
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testRandomIntervals,Magic Number,The method contains a magic number: 100000,67
+Varsim,com.bina.intervalTree,SimpleInterval1DTest,testRandomIntervals2,Magic Number,The method contains a magic number: 10000,89
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Long Statement,The length of the statement "if (signature[0] == (byte)(GZIPInputStream.GZIP_MAGIC & 0xff) && signature[1] == (byte)((GZIPInputStream.GZIP_MAGIC >> 8) & 0xff)) {" is 132.,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Magic Number,The method contains a magic number: 1024,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Magic Number,The method contains a magic number: 1024,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Magic Number,The method contains a magic number: 2,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Magic Number,The method contains a magic number: 0xff,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Magic Number,The method contains a magic number: 8,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Magic Number,The method contains a magic number: 0xff,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Magic Number,The method contains a magic number: 1024,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,decompressStream,Magic Number,The method contains a magic number: 1024,56
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,run,Magic Number,The method contains a magic number: 1e3,84
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,doLiftOverArtFastqMap,Long Statement,The length of the statement "doLiftOverPairedFastq(mapBlocks`new ARTPairedFastqAlnReader(brAln1`brFastq1`brAln2`brFastq2`forceFiveBaseEncoding)`ps1`ps2);" is 124.,115
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,doLiftOverPairedFastq,Long Statement,The length of the statement "final List<GenomeLocation> newLocs1=mapBlocks.liftOverInterval(loc1.chromosome`loc1.location`loc1.location + readPair.read1.alignedBases1`loc1.direction);" is 154.,139
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,doLiftOverPairedFastq,Long Statement,The length of the statement "final List<GenomeLocation> newLocs2=hasRead2 ? mapBlocks.liftOverInterval(loc2.chromosome`loc2.location`loc2.location + readPair.read2.alignedBases2`loc2.direction) : newLocs1;" is 176.,139
+Varsim,com.bina.varsim.fastqLiftover,FastqLiftOver,doLiftOverPairedFastq,Magic Number,The method contains a magic number: 1000000,139
+Varsim,com.bina.varsim.fastqLiftover,LongISLNDReadMapLiftOver,run,Magic Number,The method contains a magic number: 1e3,54
+Varsim,com.bina.varsim.fastqLiftover,LongISLNDReadMapLiftOver,doLiftOver,Magic Number,The method contains a magic number: 100000,67
+Varsim,com.bina.varsim.fastqLiftover,GenomeLocationTest,testGenomeLocationSimple,Magic Number,The method contains a magic number: 100,31
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingEmpty,Magic Number,The method contains a magic number: 2,31
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingNormal,Long Statement,The length of the statement "final String readName="1-223167089--`1-223167099-:1-223167425--:1_paternal-223817897-:1_paternal-223818223--:::0:::1:::e9f:2/1";" is 128.,51
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingNormal,Magic Number,The method contains a magic number: 2,51
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingNormal,Magic Number,The method contains a magic number: 223167089,51
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingNormal,Magic Number,The method contains a magic number: 223167099,51
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingNormal,Magic Number,The method contains a magic number: 223167425,51
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingNormal,Magic Number,The method contains a magic number: 223817897,51
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingNormal,Magic Number,The method contains a magic number: 223818223,51
+Varsim,com.bina.varsim.fastqLiftover,SimulatedReadTest,testSimulatedReadNameParsingNormal,Magic Number,The method contains a magic number: 2,51
+Varsim,com.bina.varsim.fastqLiftover.readers,ArtAlnReader,readHeader,Magic Number,The method contains a magic number: 2,27
+Varsim,com.bina.varsim.fastqLiftover.readers,ArtAlnReader,getNextAln,Long Statement,The length of the statement "ArtAlnRecord record=new ArtAlnRecord(new ChrString(alnFields[0])`Integer.parseInt(alnFields[2]) + 1`direction`alnFields[1]`refLength);" is 134.,39
+Varsim,com.bina.varsim.fastqLiftover.readers,ArtAlnReader,getNextAln,Long Statement,The length of the statement "log.warn("got nonexistent chromosome " + record.chromosome + " at aln file line "+ (br.getLineNumber() - 2)+ ": "+ currentLine.trim());" is 135.,39
+Varsim,com.bina.varsim.fastqLiftover.readers,ArtAlnReader,getNextAln,Magic Number,The method contains a magic number: 3,39
+Varsim,com.bina.varsim.fastqLiftover.readers,ArtAlnReader,getNextAln,Magic Number,The method contains a magic number: 2,39
+Varsim,com.bina.varsim.fastqLiftover.readers,ArtAlnReader,getNextAln,Magic Number,The method contains a magic number: 2,39
+Varsim,com.bina.varsim.fastqLiftover.readers,ARTFastqAlnReader,getNextRead,Magic Number,The method contains a magic number: 2,26
+Varsim,com.bina.varsim.fastqLiftover.readers,ARTFastqAlnReader,getNextRead,Magic Number,The method contains a magic number: 2,26
+Varsim,com.bina.varsim.fastqLiftover.readers,ARTPairedFastqAlnReader,ARTPairedFastqAlnReader,Long Parameter List,The method has 5 parameters. ,14
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 2,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 3,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 4,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 5,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 6,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 7,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 8,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 9,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 10,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 11,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 12,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 13,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 14,27
+Varsim,com.bina.varsim.fastqLiftover.readers,DWGSIMFastqReader,getNextRead,Magic Number,The method contains a magic number: 14,27
+Varsim,com.bina.varsim.fastqLiftover.readers,MafReader,readNextEntry,Complex Method,Cyclomatic complexity of the method is 10,42
+Varsim,com.bina.varsim.fastqLiftover.readers,MafReader,readNextEntry,Magic Number,The method contains a magic number: 2,42
+Varsim,com.bina.varsim.fastqLiftover.readers,PBSIMFastqReader,getNextReadPair,Long Statement,The length of the statement "final GenomeLocation loc=new GenomeLocation(idx2Chr.get(Integer.parseInt(tags[0]))`mafEntry.get(0).start0 + 1`mafEntry.get(0).strand ? 0 : 1);" is 142.,28
+Varsim,com.bina.varsim.fastqLiftover.readers,PBSIMFastqReader,getNextReadPair,Magic Number,The method contains a magic number: 2,28
+Varsim,com.bina.varsim.fastqLiftover.readers,PBSIMFastqReader,getNextReadPair,Magic Number,The method contains a magic number: 2,28
+Varsim,com.bina.varsim.fastqLiftover.types,ArtAlnRecord,ArtAlnRecord,Long Parameter List,The method has 5 parameters. ,12
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,GenomeInterval,Magic Number,The method contains a magic number: 2,23
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,GenomeInterval,Magic Number,The method contains a magic number: 3,23
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,GenomeInterval,Magic Number,The method contains a magic number: 4,23
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,GenomeInterval,Long Parameter List,The method has 5 parameters. ,31
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,equals,Long Statement,The length of the statement "return chromosome.equals(rhs.chromosome) && start == rhs.start && end == rhs.end && strand == rhs.strand && feature == rhs.feature;" is 131.,56
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,merge,Complex Conditional,The conditional expression nextInterval.getChromosome().equals(currentChr) && nextInterval.getStart() >= currentStart && nextInterval.getEnd() <= currentEnd is complex.,84
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,merge,Complex Conditional,The conditional expression nextInterval.getChromosome().equals(currentChr) && currentEnd >= nextInterval.getStart() && currentEnd <= nextInterval.getEnd() is complex.,84
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,merge,Long Statement,The length of the statement "if (nextInterval.getChromosome().equals(currentChr) && nextInterval.getStart() >= currentStart && nextInterval.getEnd() <= currentEnd) {" is 136.,84
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeInterval,merge,Long Statement,The length of the statement "else if (nextInterval.getChromosome().equals(currentChr) && currentEnd >= nextInterval.getStart() && currentEnd <= nextInterval.getEnd()) {" is 139.,84
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeLocation,GenomeLocation,Magic Number,The method contains a magic number: 2,14
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeLocation,GenomeLocation,Magic Number,The method contains a magic number: 3,14
+Varsim,com.bina.varsim.fastqLiftover.types,GenomeLocation,toString,Long Statement,The length of the statement "return chromosome + SEPARATOR + encodeInt(location)+ SEPARATOR+ (feature == MapBlock.BlockType.SEQ ? "" : feature.getShortName())+ ((direction == 0) ? "" : "-");" is 161.,64
+Varsim,com.bina.varsim.fastqLiftover.types,MafRecord,toString,Long Statement,The length of the statement "sb.append(entry.src + " " + Integer.toString(entry.start0)+ " "+ Integer.toString(entry.size)+ " "+ (entry.strand ? "+" : "-")+ " "+ Integer.toString(entry.srcSize)+ " "+ Integer.toString(entry.srcSize)+ "\n");" is 210.,28
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlock,MapBlock,Long Parameter List,The method has 8 parameters. ,13
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlock,toString,Long Statement,The length of the statement "return srcLoc.toString() + " -> " + dstLoc.toString()+ " "+ blockType.name()+ ((direction == 0) ? "+" : "-")+ " "+ size+ "bp";" is 126.,39
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlock,equals,Long Statement,The length of the statement "result=(size == rhsMapBlock.size && srcLoc.chromosome.equals(rhsMapBlock.srcLoc.chromosome) && srcLoc.location == rhsMapBlock.srcLoc.location);" is 143.,43
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlock,fromName,Complex Conditional,The conditional expression blockType.name().equals(s) || blockType.shortName.equals(s) || blockType.longName.equals(s) is complex.,66
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlocks,liftOverInterval,Complex Conditional,The conditional expression (b.blockType == MapBlock.BlockType.INS && !seenIns) || (b.blockType == MapBlock.BlockType.DEL && !seenDel) is complex.,45
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlocks,liftOverInterval,Complex Method,Cyclomatic complexity of the method is 10,45
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlocks,liftOverInterval,Long Statement,The length of the statement "final NavigableMap<MapBlock`List<MapBlock>> subset=blocks.headMap(keyEnd`true).tailMap(blocks.headMap(keyStart`true).lastKey()`true);" is 133.,45
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlocks,liftOverInterval,Long Statement,The length of the statement "log.trace("intervalStart = " + intervalStart + " intervalEnd = "+ intervalEnd+ " lengthOfInterval = "+ lengthOfInterval);" is 121.,45
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlocks,liftOverInterval,Long Statement,The length of the statement "log.trace(chromosome + ":[" + intervalStart+ "`"+ intervalEnd+ "]("+ direction+ ") lifted to "+ liftedLoc+ " using block "+ b);" is 127.,45
+Varsim,com.bina.varsim.fastqLiftover.types,MapBlocks,liftOverReadMapRecord,Long Statement,The length of the statement "liftedReadMapBlocks.add(new ReadMapBlock(offset + liftedReadMapBlock.getReadStart()`offset + liftedReadMapBlock.getReadEnd()`liftedReadMapBlock.getMapInterval()));" is 163.,167
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 4,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 5,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 6,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 7,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 8,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 9,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 10,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 11,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 12,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 13,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 2,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,SimulatedRead,Magic Number,The method contains a magic number: 3,42
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,getName,Long Statement,The length of the statement "return joiner.join(locs1) + ":" + joiner.join(locs2)+ ":"+ joiner.join(origLocs1)+ ":"+ joiner.join(origLocs2)+ encodeInts(random1`random2`seqErrors1`snps1`indels1`seqErrors2`snps2`indels2)+ ":"+ readId+ ":"+ laneId+ "/"+ fragment;" is 231.,95
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,getShortName,Long Statement,The length of the statement "return joiner.join(selectLocs(locs1)) + ":" + joiner.join(selectLocs(locs2))+ ":"+ joiner.join(origLocs1)+ ":"+ joiner.join(origLocs2)+ encodeInts(random1`random2`seqErrors1`snps1`indels1`seqErrors2`snps2`indels2)+ ":"+ readId+ ":"+ laneId+ "/"+ fragment;" is 255.,117
+Varsim,com.bina.varsim.fastqLiftover.types,SimulatedRead,toString,Magic Number,The method contains a magic number: 255,131
+Varsim,com.bina.varsim.readers.longislnd,LongISLNDReadAlignmentMap,LongISLNDReadAlignmentMap,Long Statement,The length of the statement "final AbstractFeatureReader<BEDFeature`LineIterator> featureReader=AbstractFeatureReader.getFeatureReader(readAlignmentMapFileName`new BEDCodec()`false);" is 153.,22
+Varsim,com.bina.varsim.readers.longislnd,LongISLNDReadMapRecord,toReadMapRecord,Long Statement,The length of the statement "return new ReadMapRecord(readName`Collections.singletonList(new ReadMapBlock(0`end - start`new GenomeInterval(chromosome`start`end`strand`MapBlock.BlockType.UNKNOWN))));" is 169.,55
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Complex Conditional,The conditional expression !useNonPrimary && (rec.getNotPrimaryAlignmentFlag() || rec.getSupplementaryAlignmentFlag()) is complex.,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Complex Method,Cyclomatic complexity of the method is 23,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Long Method,The method has 119 lines of code.,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Long Statement,The length of the statement "outputBlob.setParams(new CompareParams(bamFilenames.get(0).substring(0`Math.min(64`bamFilenames.get(0).length()))`wiggle`bedFilename`identityThreshold));" is 153.,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Long Statement,The length of the statement "final SamReaderFactory factory=SamReaderFactory.makeDefault().enable(SamReaderFactory.Option.INCLUDE_SOURCE_IN_RECORDS`SamReaderFactory.Option.VALIDATE_CRC_CHECKSUMS).validationStringency(ValidationStringency.LENIENT);" is 218.,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Long Statement,The length of the statement "try (final PrintWriter jsonWriter=new PrintWriter(outPrefix + "_report.json"`"UTF-8");final SAMFileWriter tumFPWriter=writerFactory.makeBAMWriter(factory.getFileHeader(new File(bamFilenames.get(0)))`false`new File(outPrefix + "_TUM_FP.bam"));final SAMFileWriter fpWriter=writerFactory.makeBAMWriter(factory.getFileHeader(new File(bamFilenames.get(0)))`false`new File(outPrefix + "_FP.bam"))){" is 392.,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Long Statement,The length of the statement "fpWriters.put(blockType`writerFactory.makeBAMWriter(factory.getFileHeader(new File(bamFilenames.get(0)))`false`new File(outPrefix + "_" + blockType.getShortName()+ "_FP.bam")));" is 177.,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Long Statement,The length of the statement "final Collection<GenomeLocation> trueLoci=readMap != null ? readMap.getReadMapRecord(name).getUnclippedStarts(pair_idx) : new SimulatedRead(name).getLocs(pair_idx);" is 164.,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Long Statement,The length of the statement "FileUtils.writeStringToFile(new File(outPrefix + "_aligncomp.html")`JSONInserter.insertJSON(FileUtils.readFileToString(htmlFile)`jsonStr));" is 139.,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Magic Number,The method contains a magic number: 64,92
+Varsim,com.bina.varsim.tools.evaluation,SAMcompare,run,Magic Number,The method contains a magic number: 100000,92
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Complex Method,Cyclomatic complexity of the method is 13,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Parameter List,The method has 7 parameters. ,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "Variant.Builder template=new Variant.Builder().chr(variant.getChr()).isPhased(true).varId(variant.getVariantId()).filter(VCFparser.DEFAULT_FILTER).refDeleted("");" is 162.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition + reference.length).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt}).phase(phase).build());" is 163.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt}).phase(phase).build());" is 144.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition + reference.length).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt}).phase(phase).build());" is 163.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition + reference.length).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt2}).phase(phase).build());" is 164.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt}).phase(phase).build());" is 144.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt2}).phase(phase).build());" is 145.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition + alternativeAlleles[0].length).referenceAlleleLength(-alleleLengthDifference[0]).ref(Arrays.copyOfRange(reference`alternativeAlleles[0].length`alternativeAlleles[0].length - alleleLengthDifference[0])).alts(new Alt[]{alt}).phase(phase).build());" is 300.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition).referenceAlleleLength(-alleleLengthDifference[0]).ref(Arrays.copyOfRange(reference`0`-alleleLengthDifference[0])).alts(new Alt[]{alt}).phase(phase).build());" is 212.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition + reference.length).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt}).phase(phase).build());" is 163.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt}).phase(phase).build());" is 144.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition + alternativeAlleles[a].length).referenceAlleleLength(-alleleLengthDifference[a]).ref(Arrays.copyOfRange(reference`alternativeAlleles[a].length`alternativeAlleles[a].length - alleleLengthDifference[a])).alts(new Alt[]{alt}).phase(phase).build());" is 300.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeToIndels,Long Statement,The length of the statement "canonicalVariantList.add(template.pos(currentPosition).referenceAlleleLength(-alleleLengthDifference[a]).ref(Arrays.copyOfRange(reference`0`-alleleLengthDifference[a])).alts(new Alt[]{alt}).phase(phase).build());" is 212.,135
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression variant.getCompositions() == null && variant.getGoodPaternal() == 0 && variant.getGoodMaternal() == 0 is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression variant.getGoodPaternal() > 0 && variant.getAlt(variant.getGoodPaternal()).length() == 0 && variant.getReference().length == 0 is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression variant.getGoodMaternal() > 0 && variant.getAlt(variant.getGoodMaternal()).length() == 0 && variant.getReference().length == 0 is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression variant.getType(variant.getGoodMaternal()) == VariantType.Translocation_Duplication || variant.getType(variant.getGoodMaternal()) == VariantType.Interspersed_Duplication || variant.getType(variant.getGoodPaternal()) == VariantType.Translocation_Duplication || variant.getType(variant.getGoodPaternal()) == VariantType.Interspersed_Duplication is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression alleleSpecificRelativePosition[0] >= 0 && alleleSpecificRelativePosition[1] < 0 && alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] != referenceAlleleSequence[relativePosition] is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression alleleSpecificRelativePosition[0] < 0 && alleleSpecificRelativePosition[1] >= 0 && alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] != referenceAlleleSequence[relativePosition] is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression alleleSpecificRelativePosition[0] >= 0 && alleleSpecificRelativePosition[1] < 0 && alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] == referenceAlleleSequence[relativePosition] is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression alleleSpecificRelativePosition[0] < 0 && alleleSpecificRelativePosition[1] >= 0 && alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] == referenceAlleleSequence[relativePosition] is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Conditional,The conditional expression variant.getType(allele) == VariantType.Complex || variant.getType(allele) == VariantType.MNP || variant.getType(allele) == VariantType.SNP is complex.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Complex Method,Cyclomatic complexity of the method is 47,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Identifier,The length of the identifier alleleSpecificRelativePosition is 30.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Method,The method has 213 lines of code.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "if (variant.getGoodPaternal() > 0 && !canonicalizableFlexSeqTypes.contains(variant.getAlt(variant.getGoodPaternal()).getSeqType())) {" is 133.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "if (variant.getGoodMaternal() > 0 && !canonicalizableFlexSeqTypes.contains(variant.getAlt(variant.getGoodMaternal()).getSeqType())) {" is 133.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "if (variant.getGoodPaternal() > 0 && variant.getAlt(variant.getGoodPaternal()).length() == 0 && variant.getReference().length == 0) {" is 133.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "if (variant.getGoodMaternal() > 0 && variant.getAlt(variant.getGoodMaternal()).length() == 0 && variant.getReference().length == 0) {" is 133.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "Variant.Builder template=new Variant.Builder().chr(variant.getChr()).isPhased(true).varId(variant.getVariantId()).filter(VCFparser.DEFAULT_FILTER).refDeleted("");" is 162.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "if (variant.getType(variant.getGoodMaternal()) == VariantType.Translocation_Duplication || variant.getType(variant.getGoodMaternal()) == VariantType.Interspersed_Duplication || variant.getType(variant.getGoodPaternal()) == VariantType.Translocation_Duplication || variant.getType(variant.getGoodPaternal()) == VariantType.Interspersed_Duplication) {" is 349.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "if (variant.getType(allele) == VariantType.Translocation_Duplication || variant.getType(allele) == VariantType.Interspersed_Duplication) {" is 138.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "alt1.setBreakend(new Alt.Breakend(variant.getReference().clone()`variant.getChr2(allele)`isInversed ? variant.getEnd2(allele) : variant.getPos2(allele)`true`!isInversed));" is 171.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(variant.getPos() - 1).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt1}).phase(phase).build());" is 141.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "alt2.setBreakend(new Alt.Breakend(ambiguousBase`variant.getChr2(parentIndex)`isInversed ? variant.getPos2(parentIndex) : variant.getEnd2(parentIndex)`false`isInversed));" is 169.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(variant.getPos()).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt2}).phase(phase).build());" is 137.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (variant.getType(variant.getGoodMaternal()) == VariantType.Translocation_Deletion || variant.getType(variant.getGoodPaternal()) == VariantType.Translocation_Deletion) {" is 176.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "alt1.setBreakend(new Alt.Breakend(variant.getReference().clone()`variant.getChr()`variant.getPos() + variant.getReferenceAlleleLength()`true`true));" is 148.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(variant.getPos() - 1).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt1}).phase(phase).build());" is 141.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (variant.getType(variant.getGoodPaternal()) != VariantType.Reference && variant.getType(variant.getGoodMaternal()) != VariantType.Reference) {" is 150.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "byte[][] alternativeAlleleSequence={variant.getAlt(alleleNumber[0]).getSequence()`variant.getAlt(alleleNumber[1]).getSequence()};" is 129.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "alternativeAlleleSequence[i]=Arrays.copyOfRange(alternativeAlleleSequence[i]`minMatchLength`alternativeAlleleSequence[i].length);" is 129.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "int[] alleleLengthDifference={alternativeAlleleSequence[0].length - referenceAlleleSequence.length`alternativeAlleleSequence[1].length - referenceAlleleSequence.length};" is 169.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "canonicalizeToIndels(variantList`alleleLengthDifference`referenceAlleleSequence`alternativeAlleleSequence`variant`currentPosition`end);" is 135.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (alleleSpecificRelativePosition[0] >= 0 && alleleSpecificRelativePosition[1] < 0 && alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] != referenceAlleleSequence[relativePosition]) {" is 203.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition).referenceAlleleLength(1).ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(new Alt[]{alt}).phase(phase).build());" is 173.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (alleleSpecificRelativePosition[0] < 0 && alleleSpecificRelativePosition[1] >= 0 && alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] != referenceAlleleSequence[relativePosition]) {" is 203.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition).referenceAlleleLength(1).ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(new Alt[]{alt}).phase(phase).build());" is 173.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (alleleSpecificRelativePosition[0] >= 0 && alleleSpecificRelativePosition[1] < 0 && alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] == referenceAlleleSequence[relativePosition]) {" is 203.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (alleleSpecificRelativePosition[0] < 0 && alleleSpecificRelativePosition[1] >= 0 && alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] == referenceAlleleSequence[relativePosition]) {" is 203.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] == referenceAlleleSequence[relativePosition] && alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] == referenceAlleleSequence[relativePosition]) {" is 232.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] == alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]]) {" is 142.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition).referenceAlleleLength(1).ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(new Alt[]{alt}).phase(phase).build());" is 173.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "else if (alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] != referenceAlleleSequence[relativePosition] && alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] != referenceAlleleSequence[relativePosition]) {" is 232.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition).referenceAlleleLength(1).ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(alts).phase(phase).build());" is 163.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition).referenceAlleleLength(1).ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(new Alt[]{alt}).phase(phase).build());" is 173.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "if (variant.getType(allele) == VariantType.Complex || variant.getType(allele) == VariantType.MNP || variant.getType(allele) == VariantType.SNP) {" is 145.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition + referenceSequence.length).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt}).phase(phase).build());" is 162.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition).referenceAlleleLength(0).ref(new byte[]{'N'}).alts(new Alt[]{alt}).phase(phase).build());" is 135.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition + alternativeAlleleSequence.length).referenceAlleleLength(-alleleLengthDifference).ref(Arrays.copyOfRange(referenceSequence`alternativeAlleleSequence.length`alternativeAlleleSequence.length - alleleLengthDifference)).alts(new Alt[]{alt}).phase(phase).build());" is 305.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition).referenceAlleleLength(-alleleLengthDifference).ref(Arrays.copyOfRange(referenceSequence`0`-alleleLengthDifference)).alts(new Alt[]{alt}).phase(phase).build());" is 205.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Long Statement,The length of the statement "variantList.add(template.pos(currentPosition).referenceAlleleLength(1).ref(new byte[]{referenceSequence[i]}).alts(new Alt[]{alt}).phase(phase).build());" is 152.,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,canonicalizeVariant,Magic Number,The method contains a magic number: 2,288
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Complex Conditional,The conditional expression trueVariant == null || (!trueVariant.getGenotypes().isNonRef()) || (chrAcceptor != null && !chrAcceptor.contains(trueVariant.getChr().getName())) is complex.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Complex Conditional,The conditional expression totalLength >= this.SVLEN && maxLength >= overlapRatio * totalLength && canonicalVariantList.size() > 1 is complex.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Complex Conditional,The conditional expression variant == null || (chrAcceptor != null && !chrAcceptor.contains(variant.getChr().getName())) is complex.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Complex Conditional,The conditional expression ignoreImpreciseLength && (variant.isLengthImprecise() || matchedTrueVariant.isLengthImprecise()) is complex.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Complex Method,Cyclomatic complexity of the method is 60,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Identifier,The length of the identifier matchingVariantAndMatchedWholeVariants is 38.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Method,The method has 399 lines of code.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "if (trueVariant == null || (!trueVariant.getGenotypes().isNonRef()) || (chrAcceptor != null && !chrAcceptor.contains(trueVariant.getChr().getName()))) {" is 152.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "try (PrintWriter tpWriter=TP_WRITER.getWriter(outPrefix);PrintWriter unknownTpWriter=UNKNOWN_TP_WRITER.getWriter(outPrefix);PrintWriter fpWriter=FP_WRITER.getWriter(outPrefix);PrintWriter unknownFpWriter=UNKNOWN_FP_WRITER.getWriter(outPrefix);PrintWriter fnWriter=FN_WRITER.getWriter(outPrefix);PrintWriter jsonWriter=JSON_WRITER.getWriter(outPrefix)){" is 352.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "if (!excludeFdfFromBedFiltering && !intersector.containsEndpoints(c.getChr()`c.getGenotypeUnionAlternativeInterval()`bedEither)) {" is 130.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "if (!excludeFdfFromBedFiltering && !intersector.containsEndpoints(variant.getChr()`variant.getGenotypeUnionAlternativeInterval()`bedEither)) {" is 142.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "boolean computeAsSplit=totalLength >= this.SVLEN && maxLength >= overlapRatio * totalLength && canonicalVariantList.size() > 1;" is 127.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "ResultComparator resultComparator=new ResultComparator(trueVariantIntervalTree`overlapRatio`wiggle`ignoreInsertionLength);" is 122.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "final DualIdx dualIdx=matchedTrueVariant == null ? new DualIdx() : new DualIdx(matchedTrueVariant.splitVariantIndex`matchedTrueVariant.wholeVariantIndex);" is 154.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "final DualIdx dualIdx=matchedTrueVariant == null ? new DualIdx() : new DualIdx(matchedTrueVariant.splitVariantIndex`matchedTrueVariant.wholeVariantIndex);" is 154.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "final DualIdx dualIdx=matchedTrueVariant == null ? new DualIdx() : new DualIdx(matchedTrueVariant.splitVariantIndex`matchedTrueVariant.wholeVariantIndex);" is 154.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "threePrimeDistance[dualIdx.wholeVariantIndex]=Math.max(Math.abs(currentVariant.getPos() - matchedTrueVariant.getPos())`threePrimeDistance[dualIdx.wholeVariantIndex]);" is 166.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "fivePrimeDistance[dualIdx.wholeVariantIndex]=Math.max(Math.abs(currentVariant.getEnd() - matchedTrueVariant.getEnd())`fivePrimeDistance[dualIdx.wholeVariantIndex]);" is 164.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "lengthDifference[dualIdx.wholeVariantIndex]=VarSimMath.max(Math.abs(currentVariant.maxLen() - matchedTrueVariant.maxLen())`lengthDifference[dualIdx.wholeVariantIndex]);" is 168.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "final VariantOverallType variantOverallTypes[]={VariantOverallType.SNP`VariantOverallType.Insertion`VariantOverallType.Deletion};" is 129.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "outputBlob.getNumberOfTrueCorrect().getData().get(variantOverallType).computeTN((int)referenceGenome.getNumNonNBases(new File(bedFilename)));" is 141.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Long Statement,The length of the statement "FileUtils.writeStringToFile(new File(outPrefix + "_varcomp.html")`JSONInserter.insertJSON(FileUtils.readFileToString(htmlFile)`jsonStr));" is 137.,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Magic Number,The method contains a magic number: 3,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,localMatching,Magic Number,The method contains a magic number: 2,740
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,printVCFHeader,Complex Method,Cyclomatic complexity of the method is 10,1635
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,printVCFHeader,Long Parameter List,The method has 6 parameters. ,1635
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,getSummaryStats,Magic Number,The method contains a magic number: 5,1688
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,getSummaryStats,Magic Number,The method contains a magic number: 25,1688
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,getSummaryStats,Magic Number,The method contains a magic number: 50,1688
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,getSummaryStats,Magic Number,The method contains a magic number: 75,1688
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,getSummaryStats,Magic Number,The method contains a magic number: 95,1688
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,getSummaryStats,Magic Number,The method contains a magic number: 3,1688
+Varsim,com.bina.varsim.tools.evaluation,VCFcompare,getSummaryStats,Magic Number,The method contains a magic number: 2,1688
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareResultsParser,run,Long Statement,The length of the statement "FileUtils.writeStringToFile(new File(outPrefix + "_varcomp.html")`JSONInserter.insertJSON(FileUtils.readFileToString(htmlFile)`jsonStr));" is 137.,93
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareResultsParser,countVariants,Complex Method,Cyclomatic complexity of the method is 13,155
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareResultsParser,countVariants,Long Parameter List,The method has 5 parameters. ,155
+Varsim,com.bina.varsim.tools.evaluation,SAMCompareTest,universalTestMethod,Long Identifier,The length of the identifier expectedInsertionFalsePositive is 30.,38
+Varsim,com.bina.varsim.tools.evaluation,SAMCompareTest,universalTestMethod,Long Identifier,The length of the identifier expectedSubstitutionFalsePositive is 33.,38
+Varsim,com.bina.varsim.tools.evaluation,SAMCompareTest,universalTestMethod,Long Identifier,The length of the identifier expectedTandemDupFalsePositive is 30.,38
+Varsim,com.bina.varsim.tools.evaluation,SAMCompareTest,universalTestMethod,Long Identifier,The length of the identifier expectedInversionFalsePositive is 30.,38
+Varsim,com.bina.varsim.tools.evaluation,SAMCompareTest,universalTestMethod,Long Identifier,The length of the identifier outputSubstitutionFalsePositive is 31.,38
+Varsim,com.bina.varsim.tools.evaluation,SAMCompareTest,universalTestMethod,Long Statement,The length of the statement "assertTrue(FileUtils.contentEquals(outputSubstitutionFalsePositive.toFile()`new File(expectedSubstitutionFalsePositive)));" is 122.,38
+Varsim,com.bina.varsim.tools.evaluation,SAMCompareTest,oneFalsePositiveSAMCompareShortReadTest,Long Statement,The length of the statement "universalTestMethodShortRead("src/test/resources/samcompareTests/short_read_test_one_false_positive"`new String[]{"-wig"`"5"});" is 127.,95
+Varsim,com.bina.varsim.tools.evaluation,SAMCompareTest,oneFalsePositiveOneTruePositiveMultiAlignmentSAMCompareShortReadTest,Long Statement,The length of the statement "universalTestMethodShortRead("src/test/resources/samcompareTests/multiAlignmentTests/shortReadoneTPoneFPMultiAlignment"`new String[]{"-wig"`"5"`"-identity_threshold"`"0.95"});" is 175.,104
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,universalTestMethod,Long Statement,The length of the statement "String[] args=new String[]{"-true_vcf"`truthVcf`"-prefix"`Paths.get(wd.getCanonicalPath()`"test").toString()`vcfForCompare};" is 124.,30
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,breakendEvaluationOnIdenticalBalancedNonreciprocalTranslocation,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/breakendTests/breakendEvaluationOnIdenticalBalancedNonreciprocalTranslocation");" is 135.,166
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,insertionVsInsertionTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/insertionVsInsertionTest"`new String[]{"-wig"`"20"`"-over"`"0.1"});" is 122.,175
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,breakendEvaluationDifferentInsertionsFailWithSmallWiggle,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/breakendTests/nonreciprocalWithDifferentInsertionFailWithSmallWiggle"`new String[]{"-wig"`"1"});" is 151.,183
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,breakendEvaluationDifferentInsertionsSucceedWithLargeWiggle,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/breakendTests/nonreciprocalWithDifferentInsertionSucceedWithLargeWiggle"`new String[]{"-wig"`"15"});" is 155.,192
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,breakendEvaluationDifferentDuplicationOrientations,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/breakendTests/nonreciprocalWithDifferentOrientationsAndLargeWiggle"`new String[]{"-wig"`"100"});" is 151.,210
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,breakendEvaluationNonReciprocalBalancedWithLargeWiggle,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/breakendTests/nonreciprocalBalancedWithLargeWiggle"`new String[]{"-wig"`"10"});" is 134.,221
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,distanceSNPTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/snpDistance"`new String[]{"-output_distance_metric"});" is 129.,232
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,distanceINSTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/insDistance"`new String[]{"-wig"`"150"`"-over"`"0.5"`"-output_distance_metric"});" is 156.,240
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,impreciseDistanceINSTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/impreciseInsDistance"`new String[]{"-wig"`"150"`"-over"`"0.5"`"-output_distance_metric"`"-ignore_imprecise_length"});" is 192.,248
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,impreciseDistanceINSTest2,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/impreciseInsDistance2"`new String[]{"-wig"`"150"`"-over"`"0.5"`"-output_distance_metric"`"-ignore_imprecise_length"});" is 193.,258
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,distanceINVTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/invDistance"`new String[]{"-wig"`"2000"`"-over"`"0.55"`"-output_distance_metric"});" is 158.,268
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,distanceDELTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/delDistance"`new String[]{"-wig"`"10"`"-over"`"0.5"`"-output_distance_metric"});" is 155.,276
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,distanceDUPTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/dupDistance"`new String[]{"-wig"`"20"`"-over"`"0.7"`"-output_distance_metric"});" is 155.,284
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,distanceTenDUPTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/tenDupDistance"`new String[]{"-wig"`"20"`"-over"`"0.7"`"-output_distance_metric"});" is 158.,292
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,distanceMultipleMatchingTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/distanceMetricTests/multipleMatchingDistance"`new String[]{"-wig"`"50"`"-over"`"0.7"`"-output_distance_metric"});" is 168.,317
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,complexVariantNoPartialMatchingTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/complexVariantTests/noPartialMatchingTest"`new String[]{"-disallow_partial_fp"});" is 136.,326
+Varsim,com.bina.varsim.tools.evaluation,VCFCompareTest,complexVariantNoPartialMatchingTest2,Long Statement,The length of the statement "universalTestMethod("src/test/resources/validationTest/complexVariantTests/noPartialMatchingTest2"`new String[]{"-disallow_partial_fp"});" is 137.,337
+Varsim,com.bina.varsim.tools,LiftOver,run,Complex Method,Cyclomatic complexity of the method is 10,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Long Statement,The length of the statement "try (BufferedWriter outputWriter=new BufferedWriter(new FileWriter(outfile));BufferedReader fileToLift=new BufferedReader(new FileReader(input))){" is 146.,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Long Statement,The length of the statement "GenomeInterval interval=new GenomeInterval(new ChrString(fields[0])`Integer.parseInt(fields[1])`Integer.parseInt(fields[2])`fields.length >= 6 ? Strand.decode(fields[5]) : Strand.FORWARD`MapBlock.BlockType.UNKNOWN);" is 215.,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 2,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 6,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 5,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 4,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 3,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 5,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 4,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 6,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 7,44
+Varsim,com.bina.varsim.tools,LiftOver,run,Magic Number,The method contains a magic number: 6,44
+Varsim,com.bina.varsim.tools,LiftOverTest,universalTestMethod,Long Statement,The length of the statement "String[] args=new String[]{"-input"`inputBed`"-map"`inputMap`"-prefix"`Paths.get(wd.getCanonicalPath()`"test").toString()};" is 123.,23
+Varsim,com.bina.varsim.tools.simulation,RandBED2VCF,parseBedLine,Complex Conditional,The conditional expression pos == 0 || len > max_length_lim || len < min_length_lim is complex.,86
+Varsim,com.bina.varsim.tools.simulation,RandBED2VCF,parseBedLine,Complex Method,Cyclomatic complexity of the method is 11,86
+Varsim,com.bina.varsim.tools.simulation,RandBED2VCF,parseBedLine,Long Statement,The length of the statement "return new Variant.Builder().chr(chr).pos(pos).referenceAlleleLength(ref_seq.length).ref(ref_seq).alts(alts).phase(geno.geno).isPhased(false).varId(var_idx_str).filter("PASS").refDeleted(String.valueOf(ref.charAt(chr`pos - 1))).randomNumberGenerator(rand).build();" is 264.,86
+Varsim,com.bina.varsim.tools.simulation,RandBED2VCF,parseBedLine,Magic Number,The method contains a magic number: 4,86
+Varsim,com.bina.varsim.tools.simulation,RandBED2VCF,parseBedLine,Magic Number,The method contains a magic number: 3,86
+Varsim,com.bina.varsim.tools.simulation,RandBED2VCF,parseBedLine,Magic Number,The method contains a magic number: 2,86
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,countVariantsInDGV,Complex Method,Cyclomatic complexity of the method is 9,82
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,countVariantsInDGV,Magic Number,The method contains a magic number: 2,82
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,sampleFromDGV,Complex Conditional,The conditional expression prevVar.getPos() >= 0 && var.getPos() >= 0 && prevVar.getChr() != null && prevVar.getChr().equals(var.getChr()) && (prevVar.getPos() > var.getPos()) is complex.,153
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,sampleFromDGV,Complex Conditional,The conditional expression prevVar.getChr() != null && prevVar.getChr().equals(var.getChr()) && prevVar.getPos() == var.getPos() is complex.,153
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,sampleFromDGV,Complex Method,Cyclomatic complexity of the method is 11,153
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,sampleFromDGV,Long Parameter List,The method has 6 parameters. ,153
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,sampleFromDGV,Long Statement,The length of the statement "final String VCF_HEADER="##fileformat=VCFv4.0\n" + "##FORMAT=<ID=GT`Number=1`Type=String`Description=\"Genotype\">\n" + "#CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO\tFORMAT\t" + this.sampleID + "\n";" is 201.,153
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,sampleFromDGV,Long Statement,The length of the statement "if (prevVar.getPos() >= 0 && var.getPos() >= 0 && prevVar.getChr() != null && prevVar.getChr().equals(var.getChr()) && (prevVar.getPos() > var.getPos())) {" is 155.,153
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,sampleFromDGV,Long Statement,The length of the statement "geno.geno[i]=sampleGenotype(geno.geno[i]`variantParams.get(variantType)`maxCounts.get(variantType)`variantCounts.get(variantType)`outputAll);" is 141.,153
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,sampleFromDGV,Magic Number,The method contains a magic number: 2,153
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,randOutputVcfRecord,Long Parameter List,The method has 6 parameters. ,227
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,randOutputVcfRecord,Magic Number,The method contains a magic number: 100000,227
+Varsim,com.bina.varsim.tools.simulation,RandDGV2VCF,randOutputVcfRecord,Magic Number,The method contains a magic number: 100,227
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,countVariants,Complex Method,Cyclomatic complexity of the method is 8,96
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,countVariants,Magic Number,The method contains a magic number: 2,96
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,sampleFromVCF,Complex Method,Cyclomatic complexity of the method is 10,160
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,sampleFromVCF,Long Parameter List,The method has 5 parameters. ,160
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,sampleFromVCF,Long Statement,The length of the statement "final String VCF_HEADER="##fileformat=VCFv4.0\n" + "##FORMAT=<ID=GT`Number=1`Type=String`Description=\"Genotype\">\n" + "#CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO\tFORMAT\t" + this.sampleID + "\n";" is 201.,160
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,sampleFromVCF,Long Statement,The length of the statement "geno.geno[i]=sampleGenotype(geno.geno[i]`variantTypeParams.get(variantType)`maxCounts.get(variantType)`variantCounts.get(variantType));" is 135.,160
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,sampleFromVCF,Magic Number,The method contains a magic number: 2,160
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,randOutputVcfRecord,Long Parameter List,The method has 5 parameters. ,236
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,randOutputVcfRecord,Magic Number,The method contains a magic number: 10,236
+Varsim,com.bina.varsim.tools.simulation,RandVCF2VCF,randOutputVcfRecord,Magic Number,The method contains a magic number: 100,236
+Varsim,com.bina.varsim.tools.simulation,RandVCFgenerator,sampleGenotype,Long Parameter List,The method has 5 parameters. ,59
+Varsim,com.bina.varsim.tools.simulation,RandVCFgenerator,fillInSeq,Magic Number,The method contains a magic number: 10.0,104
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,parseVCFs,Complex Method,Cyclomatic complexity of the method is 8,116
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,makeDiploid,Complex Method,Cyclomatic complexity of the method is 18,166
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,makeDiploid,Long Method,The method has 105 lines of code.,166
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,makeDiploid,Long Statement,The length of the statement "final String header=VCFWriter.generateVCFHeader(noContigID ? null : allSequences`new ImmutableList.Builder<String>().addAll(idList).build());" is 141.,166
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,makeDiploid,Magic Number,The method contains a magic number: 150,166
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,makeDiploid,Magic Number,The method contains a magic number: 150,166
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Complex Conditional,The conditional expression maskedSequence[position - 1] == DELETED_BASE && (position >= 2 && maskedSequence[position - 2] == DELETED_BASE) is complex.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Complex Conditional,The conditional expression referenceAlleleLength == 1 && (insertions != null && insertions.length == 1) is complex.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Complex Method,Cyclomatic complexity of the method is 22,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Method,The method has 108 lines of code.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Parameter List,The method has 6 parameters. ,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "log.warn("Variant out of chromosome bounds at " + referenceSequence.getName() + ":"+ position+ "` (referenceAlleleLength`insertions) of ("+ referenceAlleleLength+ "`"+ Arrays.toString(insertions)+ "). Skipping.");" is 213.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "log.warn("Variant (" + variant + ") overlap at "+ referenceSequence.getName()+ ":"+ position+ "` (referenceAlleleLength`insertions) of ("+ referenceAlleleLength+ "`"+ new String(insertions`"US-ASCII")+ "). Skipping.");" is 218.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "log.warn("Variant (" + variant + ") overlap at "+ referenceSequence.getName()+ ":"+ position+ "` (referenceAlleleLength`insertions) of ("+ referenceAlleleLength+ "`<imprecise>). Skipping.");" is 190.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "log.warn("Skipping variant (" + variant + ") with (referenceAlleleLength`insertions) of ("+ referenceAlleleLength+ "`"+ new String(insertions`"US-ASCII")+ ").");" is 161.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "log.warn("Skipping variant (" + variant + ") with (referenceAlleleLength`insertions) of ("+ referenceAlleleLength+ "` <imprecise> ).");" is 135.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "insertions=allSequences.getSequence(variant.getChr2(allele)).revComp(variant.getPos2(allele)`variant.getEnd2(allele) + 1);" is 122.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "insertions=allSequences.getSequence(variant.getChr2(allele)).subSeq(variant.getPos2(allele)`variant.getEnd2(allele) + 1);" is 121.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "final byte[] origSeq=variant.isInversed() ? referenceSequence.revComp(position`position + singleInsLen + 1) : referenceSequence.subSeq(position`position + singleInsLen + 1);" is 173.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "FlexSeq.Builder builder=new FlexSeq.Builder().sequence(insertions).type(variant.getAlt(allele).getSeqType()).copyNumber(variant.getAlt(allele).getCopyNumber()).length(variant.getAlt(allele).length()).variantId(variant.getVariantId());" is 234.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "if (FlexSeq.Type.TRA_DUP.equals(variant.getAlt(allele).getSeqType()) || FlexSeq.Type.ISP_DUP.equals(variant.getAlt(allele).getSeqType())) {" is 139.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Long Statement,The length of the statement "s=builder.chr2(variant.getChr2(allele)).pos2(variant.getPos2(allele)).end2(variant.getEnd2(allele)).referenceAlleleLength(variant.getReferenceAlleleLength()).isinv(variant.isInversed()).build();" is 194.,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Magic Number,The method contains a magic number: 2,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,addVariant,Magic Number,The method contains a magic number: 2,321
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,makePosMap,Long Parameter List,The method has 5 parameters. ,514
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,makePosMap,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@590e1783,514
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,writeVCF,Complex Conditional,The conditional expression !outputMaternal && outputPaternal && !paternalAddedVariants.get(i) is complex.,671
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,writeVCF,Complex Conditional,The conditional expression outputMaternal && !outputPaternal && !maternalAddedVariants.get(i) is complex.,671
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,writeVCF,Long Parameter List,The method has 7 parameters. ,671
+Varsim,com.bina.varsim.tools.simulation,VCF2diploid,writeVCF,Long Statement,The length of the statement "bw.write(currVar.toString(outputPaternal ? (paternalAddedVariants.get(i) ? currVar.paternal() : 0) : -1`outputMaternal ? (maternalAddedVariants.get(i) ? currVar.maternal() : 0) : -1));" is 184.,671
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,universalTestMethod,Long Statement,The length of the statement "String[] args=new String[]{"-chr"`reference`"-outdir"`wd.getCanonicalPath()`"-seed"`Integer.toString(this.seed)`"-id"`"test"`"-t"`"MALE"`"-vcf"`vcf};" is 149.,25
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,universalTestMethod2,Long Statement,The length of the statement "String[] args=new String[]{"-chr"`reference`"-outdir"`wd.getCanonicalPath()`"-seed"`Integer.toString(this.seed)`"-id"`"test"`"-t"`"MALE"`"-vcf"`vcf};" is 149.,63
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,universalTestMethod3,Long Statement,The length of the statement "String[] args=new String[]{"-chr"`reference`"-outdir"`wd.getCanonicalPath()`"-seed"`Integer.toString(this.seed)`"-id"`"test"`"-t"`"MALE"`"-vcf"`vcf};" is 149.,92
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedReciprocalTranslocationIntrachromosomalTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedReciprocalTranslocationTest/balancedReciprocalTranslocationIntrachromosomal");" is 144.,160
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedReciprocalTranslocationIntrachromosomalWithInversionTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedReciprocalTranslocationTest/balancedReciprocalTranslocationIntrachromosomalWithInversion");" is 157.,164
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedReciprocalTranslocationInterchromosomalTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedReciprocalTranslocationTest/balancedReciprocalTranslocationInterchromosomal");" is 144.,168
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedReciprocalTranslocationInterchromosomalWithInversionTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedReciprocalTranslocationTest/balancedReciprocalTranslocationInterchromosomalWithInversion");" is 157.,172
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedNonReciprocalTranslocationInterchromosomal,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedNonReciprocalTranslocationTest/balancedNonReciprocalTranslocationInterchromosomal");" is 150.,176
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedNonReciprocalTranslocationInterchromosomalWithInversionTest,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedNonReciprocalTranslocationTest/balancedNonReciprocalTranslocationInterchromosomalWithInversion");" is 163.,180
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedNonReciprocalTranslocationInterHomologousChromosomal,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedNonReciprocalTranslocationTest/balancedNonReciprocalTranslocationInterHomologousChromosomal");" is 160.,184
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedNonReciprocalTranslocationIntrachromosomal,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedNonReciprocalTranslocationTest/balancedNonReciprocalTranslocationIntrachromosomal");" is 150.,188
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,balancedNonReciprocalTranslocationIntrachromosomalWithInversion,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/BalancedNonReciprocalTranslocationTest/balancedNonReciprocalTranslocationIntrachromosomalWithInversion");" is 163.,192
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,unbalancedTranslocationInterchromosomal,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/UnbalancedLossTranslocationTest/unbalancedTranslocationInterchromosomal");" is 132.,196
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,unbalancedTranslocationIntrachromosomal,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/UnbalancedLossTranslocationTest/unbalancedTranslocationIntrachromosomal");" is 132.,200
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,unbalancedTranslocationInterchromosomalWithInversion,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/UnbalancedLossTranslocationWithInversionTest/UnbalancedLossInterchromosomalTranslocationWithInversion");" is 162.,205
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,unbalancedTranslocationIntrachromosomalWithInversion,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/UnbalancedLossTranslocationWithInversionTest/UnbalancedLossIntrachromosomalTranslocationWithInversion");" is 162.,213
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,unbalancedGainTranslocationInterchromosomal,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/UnbalancedGainTranslocationTest/UnbalancedGainInterchromosomalTranslocation");" is 136.,217
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,unbalancedGainTranslocationIntrachromosomal,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/UnbalancedGainTranslocationTest/UnbalancedGainIntrachromosomalTranslocation");" is 136.,221
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,unbalancedGainTranslocationInterchromosomalWithInversion,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/UnbalancedGainTranslocationTest/UnbalancedGainInterchromosomalTranslocationWithInversion");" is 149.,225
+Varsim,com.bina.varsim.tools.simulation,VCF2diploidTest,unbalancedGainTranslocationIntrachromosomalWithInversion,Long Statement,The length of the statement "universalTestMethod("src/test/resources/TranslocationTest/UnbalancedGainTranslocationTest/UnbalancedGainIntrachromosomalTranslocationWithInversion");" is 149.,229
+Varsim,com.bina.varsim.types,BedFile,readBedFile,Magic Number,The method contains a magic number: 2,53
+Varsim,com.bina.varsim.types,BedFile,containsEndpoints,Long Statement,The length of the statement "return bedST.contains(chr`new SimpleInterval1D(interval.getLeft()`interval.getLeft())) || bedST.contains(chr`new SimpleInterval1D(interval.getRight()`interval.getRight()));" is 172.,109
+Varsim,com.bina.varsim.types,BedFile,containsEndpoints,Long Statement,The length of the statement "return bedST.contains(chr`new SimpleInterval1D(interval.getLeft()`interval.getLeft())) && bedST.contains(chr`new SimpleInterval1D(interval.getRight()`interval.getRight()));" is 172.,109
+Varsim,com.bina.varsim.types,ChrString,stripChr,Magic Number,The method contains a magic number: 3,22
+Varsim,com.bina.varsim.types,ChrString,stripChr,Magic Number,The method contains a magic number: 3,22
+Varsim,com.bina.varsim.types,ChrString,stripChr,Magic Number,The method contains a magic number: 3,22
+Varsim,com.bina.varsim.types,FlexSeq,varLength,Complex Conditional,The conditional expression type == Type.TANDEM_DUP || type == Type.ISP_DUP || type == Type.TRA_DUP is complex.,231
+Varsim,com.bina.varsim.types,FlexSeq,equals,Complex Method,Cyclomatic complexity of the method is 8,257
+Varsim,com.bina.varsim.types,FlexSeq,hashCode,Magic Number,The method contains a magic number: 17,273
+Varsim,com.bina.varsim.types,FlexSeq,hashCode,Magic Number,The method contains a magic number: 31,273
+Varsim,com.bina.varsim.types,FlexSeq,hashCode,Magic Number,The method contains a magic number: 31,273
+Varsim,com.bina.varsim.types,FlexSeq,hashCode,Magic Number,The method contains a magic number: 31,273
+Varsim,com.bina.varsim.types,FlexSeq,hashCode,Magic Number,The method contains a magic number: 31,273
+Varsim,com.bina.varsim.types,FlexSeq,toString,Complex Method,Cyclomatic complexity of the method is 9,311
+Varsim,com.bina.varsim.types,FlexSeq,toString,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@21947bcc,311
+Varsim,com.bina.varsim.types,Genotypes,Genotypes,Magic Number,The method contains a magic number: 0.6,15
+Varsim,com.bina.varsim.types,Genotypes,Genotypes,Long Parameter List,The method has 5 parameters. ,26
+Varsim,com.bina.varsim.types,Genotypes,Genotypes,Magic Number,The method contains a magic number: 2,26
+Varsim,com.bina.varsim.types,Genotypes,Genotypes,Magic Number,The method contains a magic number: 2,26
+Varsim,com.bina.varsim.types,Genotypes,Genotypes,Magic Number,The method contains a magic number: 2,66
+Varsim,com.bina.varsim.types,MapRecord,generateNewMapRecord,Complex Method,Cyclomatic complexity of the method is 12,31
+Varsim,com.bina.varsim.types,MapRecord,generateNewMapRecord,Long Method,The method has 104 lines of code.,31
+Varsim,com.bina.varsim.types,MapRecord,generateNewMapRecord,Long Parameter List,The method has 7 parameters. ,31
+Varsim,com.bina.varsim.types,ParentRecord,ParentRecord,Magic Number,The method contains a magic number: 2,20
+Varsim,com.bina.varsim.types,ParentRecord,toString,Long Statement,The length of the statement "return "Total count: " + total_count + "\n"+ "Paternal\n"+ "Total: "+ data[PATERNAL].getTotal_nonref()+ "\n"+ data[PATERNAL]+ "\n"+ "Maternal\n"+ "Total: "+ data[MATERNAL].getTotal_nonref()+ "\n"+ data[MATERNAL]+ "\n"+ "Overall\n"+ "Total: "+ overall_data.getTotal_nonref()+ "\n"+ overall_data+ "\n";" is 300.,56
+Varsim,com.bina.varsim.types,ReadMapBlock,ReadMapBlock,Magic Number,The method contains a magic number: 2,30
+Varsim,com.bina.varsim.types,ReadMapBlock,getUnclippedStart,Long Statement,The length of the statement "return new GenomeLocation(mapInterval.getChromosome()`mapInterval.getStart() - readStart`mapInterval.getStrand()`mapInterval.getFeature());" is 139.,54
+Varsim,com.bina.varsim.types,Sequence,isNormalSequence,Complex Conditional,The conditional expression ch == A || ch == T || ch == C || ch == G || ch == a || ch == t || ch == c || ch == g || ch == n || ch == N is complex.,35
+Varsim,com.bina.varsim.types,Sequence,complement,Complex Method,Cyclomatic complexity of the method is 10,58
+Varsim,com.bina.varsim.types,Sequence,complement,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@7a8bbe6e,58
+Varsim,com.bina.varsim.types,Sequence,reverseComplement,Magic Number,The method contains a magic number: 2,120
+Varsim,com.bina.varsim.types,VCFInfo,main,Magic Number,The method contains a magic number: 100000000,19
+Varsim,com.bina.varsim.types,VCFInfo,getType,Complex Conditional,The conditional expression infoID.equals("SVLEN") || infoID.equals("POS2") || infoID.equals("END2")|| infoID.equals("END")|| infoID.equals("DP") is complex.,118
+Varsim,com.bina.varsim.types,VCFInfo,getType,Complex Conditional,The conditional expression infoID.equals("SVTYPE") || infoID.equals("CHR2") || infoID.equals("TRAID") is complex.,118
+Varsim,com.bina.varsim.types,VCFInfo,getType,Long Statement,The length of the statement "if (infoID.equals("SVLEN") || infoID.equals("POS2") || infoID.equals("END2")|| infoID.equals("END")|| infoID.equals("DP")) {" is 124.,118
+Varsim,com.bina.varsim.types,AltTest,breakendTest,Magic Number,The method contains a magic number: 123,13
+Varsim,com.bina.varsim.types,VCFInfoTest,VCFInfoParsingTest,Long Statement,The length of the statement "VCFInfo test=new VCFInfo("SVTYPE=TRA;END=156001999;TRASUBTYPE=ACCEPT`REJECT;SVLEN=100`200;POS2=155000679`156000999;END2=155110000`155100999;CHR2=1`1");" is 151.,13
+Varsim,com.bina.varsim.types,VCFInfoTest,VCFInfoParsingTest,Magic Number,The method contains a magic number: 155000679,13
+Varsim,com.bina.varsim.types,VCFInfoTest,VCFInfoParsingTest,Magic Number,The method contains a magic number: 156000999,13
+Varsim,com.bina.varsim.types.constraint,Constraint,Constraint,Magic Number,The method contains a magic number: 5,17
+Varsim,com.bina.varsim.types.constraint,Constraint,Constraint,Magic Number,The method contains a magic number: 2,17
+Varsim,com.bina.varsim.types.constraint,Constraint,Constraint,Magic Number,The method contains a magic number: 3,17
+Varsim,com.bina.varsim.types.constraint,Constraint,Constraint,Magic Number,The method contains a magic number: 4,17
+Varsim,com.bina.varsim.types.constraint,Constraint,parseRange,Magic Number,The method contains a magic number: 2,44
+Varsim,com.bina.varsim.types.constraint,Constraint,toString,Long Statement,The length of the statement "return "Constraint{" + "varType=" + varType + "` range="+ range+ "` metric="+ metric+ "` operation="+ operation+ "` cutoff="+ cutoff+ '}';" is 138.,54
+Varsim,com.bina.varsim.types.constraint,ConstraintRecord,inc,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@4ec3b923,24
+Varsim,com.bina.varsim.types.constraint,ConstraintRecord,getStatsValue,Magic Number,The method contains a magic number: 2,57
+Varsim,com.bina.varsim.types.constraint,ConstraintRecord,getStatsValue,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@67d81d77,57
+Varsim,com.bina.varsim.types.constraint,ConstraintRecord,isSatisfied,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@6510405b,72
+Varsim,com.bina.varsim.types.stats,MapRatioRecordSum,incStat,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@424fea59,19
+Varsim,com.bina.varsim.types.stats,RatioRecord,getF1,Magic Number,The method contains a magic number: 2,160
+Varsim,com.bina.varsim.types.stats,RatioRecord,toString,Magic Number,The method contains a magic number: 100,188
+Varsim,com.bina.varsim.types.stats,RatioRecord,toString,Magic Number,The method contains a magic number: 100,188
+Varsim,com.bina.varsim.types.stats,RatioRecord,equals,Complex Method,Cyclomatic complexity of the method is 10,192
+Varsim,com.bina.varsim.types.stats,RatioRecord,hashCode,Magic Number,The method contains a magic number: 17,210
+Varsim,com.bina.varsim.types.stats,RatioRecord,hashCode,Magic Number,The method contains a magic number: 31,210
+Varsim,com.bina.varsim.types.stats,RatioRecord,hashCode,Magic Number,The method contains a magic number: 31,210
+Varsim,com.bina.varsim.types.stats,RatioRecord,hashCode,Magic Number,The method contains a magic number: 31,210
+Varsim,com.bina.varsim.types.stats,RatioRecord,hashCode,Magic Number,The method contains a magic number: 31,210
+Varsim,com.bina.varsim.types.stats,RatioRecord,hashCode,Magic Number,The method contains a magic number: 31,210
+Varsim,com.bina.varsim.types.stats,RatioRecord,hashCode,Magic Number,The method contains a magic number: 31,210
+Varsim,com.bina.varsim.types.stats,RatioRecord,hashCode,Magic Number,The method contains a magic number: 31,210
+Varsim,com.bina.varsim.types.stats,MapRatioRecordSumTest,oneTPTest,Long Statement,The length of the statement "assertTrue(x.toString().equals("0`Infinity`0.0000`1`0`0`NaN\n" + "1`Infinity`0.0000`1`0`0`NaN\n" + "---------\n"+ "All\n"+ "0`Infinity`0.0000`1`0`0`NaN\n"+ "1`Infinity`0.0000`1`0`0`NaN\n"+ "\n"+ "---------\n"));" is 211.,20
+Varsim,com.bina.varsim.types.stats,MapRatioRecordSumTest,oneTPTest,Long Statement,The length of the statement "assertTrue(x.toString().equals("0`Infinity`0.0000`2`0`0`NaN\n" + "1`Infinity`0.0000`2`0`0`NaN\n" + "---------\n"+ "All\n"+ "0`Infinity`0.0000`2`0`0`NaN\n"+ "1`Infinity`0.0000`2`0`0`NaN\n"+ "\n"+ "Sequence\n"+ "0`Infinity`0.0000`1`0`0`NaN\n"+ "1`Infinity`0.0000`1`0`0`NaN\n"+ "\n"+ "---------\n"));" is 297.,20
+Varsim,com.bina.varsim.types.variant,Variant,setNovelPosition,Complex Method,Cyclomatic complexity of the method is 11,294
+Varsim,com.bina.varsim.types.variant,Variant,getEnd,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@11965992,421
+Varsim,com.bina.varsim.types.variant,Variant,getVariantInterval,Magic Number,The method contains a magic number: 0.5,514
+Varsim,com.bina.varsim.types.variant,Variant,getVariantInterval,Magic Number,The method contains a magic number: 0.5,514
+Varsim,com.bina.varsim.types.variant,Variant,isSmallVariant,Long Statement,The length of the statement "return ((type == VariantType.Deletion || type == VariantType.Complex) && intervalForCompare.right - intervalForCompare.left + 1 < cutoff);" is 138.,572
+Varsim,com.bina.varsim.types.variant,Variant,isSmallVariant,Long Statement,The length of the statement "return ((type == VariantType.Insertion || type == VariantType.Deletion || type == VariantType.Complex) && intervalForCompare.right - intervalForCompare.left + 1 < cutoff);" is 171.,572
+Varsim,com.bina.varsim.types.variant,Variant,getMinMatchLength,Magic Number,The method contains a magic number: 2,608
+Varsim,com.bina.varsim.types.variant,Variant,getType,Complex Conditional,The conditional expression major == Alt.SVType.DEL && (minor == null || minor != Alt.SVType.SVSubtype.TRA) is complex.,649
+Varsim,com.bina.varsim.types.variant,Variant,getType,Complex Conditional,The conditional expression major == Alt.SVType.DUP && (minor == null || minor == Alt.SVType.SVSubtype.TANDEM) is complex.,649
+Varsim,com.bina.varsim.types.variant,Variant,getType,Complex Conditional,The conditional expression major == Alt.SVType.DUP && (minor == Alt.SVType.SVSubtype.ISP || (minor == null && pos2 != null)) is complex.,649
+Varsim,com.bina.varsim.types.variant,Variant,getType,Complex Method,Cyclomatic complexity of the method is 24,649
+Varsim,com.bina.varsim.types.variant,Variant,getType,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@3602cd72,649
+Varsim,com.bina.varsim.types.variant,Variant,getType,Complex Method,Cyclomatic complexity of the method is 14,739
+Varsim,com.bina.varsim.types.variant,Variant,getType,Long Statement,The length of the statement "else if (variantTypes.contains(VariantType.Translocation_Deletion) && variantTypes.contains(VariantType.Translocation_Deletion)) {" is 130.,739
+Varsim,com.bina.varsim.types.variant,Variant,alternativeAlleleString,Complex Method,Cyclomatic complexity of the method is 8,908
+Varsim,com.bina.varsim.types.variant,Variant,randomizeHaplotype,Magic Number,The method contains a magic number: 0.5,948
+Varsim,com.bina.varsim.types.variant,Variant,equals,Complex Method,Cyclomatic complexity of the method is 19,1017
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 17,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,hashCode,Magic Number,The method contains a magic number: 31,1045
+Varsim,com.bina.varsim.types.variant,Variant,getSVLEN,Complex Conditional,The conditional expression VariantType.Deletion.equals(t) || VariantType.Complex.equals(t) || VariantType.Insertion.equals(t) is complex.,1083
+Varsim,com.bina.varsim.types.variant,Variant,getSVLEN,Complex Conditional,The conditional expression VariantType.MNP.equals(t) || VariantType.SNP.equals(t) || VariantType.Composite.equals(t) is complex.,1083
+Varsim,com.bina.varsim.types.variant,Variant,calculateExtraBase,Complex Conditional,The conditional expression alt.isSeq() && alt.length() == 0 && getPos() + referenceAlleleLength < refSeq.length() is complex.,1126
+Varsim,com.bina.varsim.types.variant,Variant,toString,Complex Method,Cyclomatic complexity of the method is 23,1150
+Varsim,com.bina.varsim.types.variant,Variant,toString,Long Method,The method has 109 lines of code.,1150
+Varsim,com.bina.varsim.types.variant,Variant,getGoodMaternal,Magic Number,The method contains a magic number: 2,1348
+Varsim,com.bina.varsim.util,ConstraintValidator,testValidity,Long Statement,The length of the statement "if (!record.isValid()) unsatisfiedConstraints.add(new UnsatisfiedConstraintException.valuePair(record.getConstraint()`record.getStatsValue()));" is 143.,36
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,doWork,Long Statement,The length of the statement "throw new RuntimeException(OUTPUT.getAbsolutePath() + " already exists. Delete this file and try again` or specify a different output file.");" is 142.,84
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,doWork,Long Statement,The length of the statement "final ReferenceSequenceFile refSeqFile=ReferenceSequenceFileFactory.getReferenceSequenceFile(REFERENCE_SEQUENCE`TRUNCATE_NAMES_AT_WHITESPACE);" is 142.,84
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,makeWriter,Long Statement,The length of the statement "return new BufferedWriter(new AsciiWriter(this.CREATE_MD5_FILE ? new Md5CalculatingOutputStream(new FileOutputStream(OUTPUT`false)`new File(OUTPUT.getAbsolutePath() + ".md5")) : new FileOutputStream(OUTPUT)));" is 209.,134
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,md5Hash,Magic Number,The method contains a magic number: 16,169
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,md5Hash,Magic Number,The method contains a magic number: 32,169
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,md5Hash,Magic Number,The method contains a magic number: 32,169
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,makeSortingCollection,Long Statement,The length of the statement "return SortingCollection.newInstance(String.class`new StringCodec()`String::compareTo`(int)Math.min(maxNamesInRam`Integer.MAX_VALUE)`tmpDir);" is 141.,180
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,makeSortingCollection,Magic Number,The method contains a magic number: 256,180
+Varsim,com.bina.varsim.util,CreateSequenceDictionary,makeSortingCollection,Magic Number,The method contains a magic number: 10,180
+Varsim,com.bina.varsim.util,DGVparser,getVariantType,Complex Method,Cyclomatic complexity of the method is 11,54
+Varsim,com.bina.varsim.util,DGVparser,getVariantType,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@51775171,54
+Varsim,com.bina.varsim.util,DGVparser,parseLine,Complex Method,Cyclomatic complexity of the method is 12,114
+Varsim,com.bina.varsim.util,DGVparser,parseLine,Magic Number,The method contains a magic number: 2,114
+Varsim,com.bina.varsim.util,DGVparser,parseLine,Magic Number,The method contains a magic number: 3,114
+Varsim,com.bina.varsim.util,DGVparser,parseLine,Magic Number,The method contains a magic number: 5,114
+Varsim,com.bina.varsim.util,DGVparser,parseLine,Magic Number,The method contains a magic number: 15,114
+Varsim,com.bina.varsim.util,DGVparser,parseLine,Magic Number,The method contains a magic number: 15,114
+Varsim,com.bina.varsim.util,DGVparser,parseLine,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@6cd77424,114
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Long Statement,The length of the statement "if (signature[0] == (byte)(GZIPInputStream.GZIP_MAGIC & 0xff) && signature[1] == (byte)((GZIPInputStream.GZIP_MAGIC >> 8) & 0xff)) {" is 132.,17
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Magic Number,The method contains a magic number: 1024,17
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Magic Number,The method contains a magic number: 1024,17
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Magic Number,The method contains a magic number: 2,17
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Magic Number,The method contains a magic number: 0xff,17
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Magic Number,The method contains a magic number: 8,17
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Magic Number,The method contains a magic number: 0xff,17
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Magic Number,The method contains a magic number: 1024,17
+Varsim,com.bina.varsim.util,GzFileParser,decompressStream,Magic Number,The method contains a magic number: 1024,17
+Varsim,com.bina.varsim.util,SimpleReference,addReference,Long Statement,The length of the statement "throw new IllegalArgumentException("Internal name " + name + " is different from name in file ("+ filename+ "): "+ s.getName());" is 128.,66
+Varsim,com.bina.varsim.util,SimpleReference,byteRange,Complex Conditional,The conditional expression start_loc < 1 || end_loc < 1 || end_loc < start_loc is complex.,149
+Varsim,com.bina.varsim.util,StringUtilities,parseInt,Magic Number,The method contains a magic number: 10,96
+Varsim,com.bina.varsim.util,VCFparser,VCFparser,Magic Number,The method contains a magic number: 10,43
+Varsim,com.bina.varsim.util,VCFparser,VCFparser,Long Parameter List,The method has 5 parameters. ,59
+Varsim,com.bina.varsim.util,VCFparser,VCFparser,Long Parameter List,The method has 5 parameters. ,65
+Varsim,com.bina.varsim.util,VCFparser,VCFparser,Magic Number,The method contains a magic number: 10,65
+Varsim,com.bina.varsim.util,VCFparser,isPhased,Complex Method,Cyclomatic complexity of the method is 10,121
+Varsim,com.bina.varsim.util,VCFparser,isPhased,Magic Number,The method contains a magic number: 2,121
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression isPassFilterRequired && !(FILTER.contains("PASS") || FILTER.equals(DEFAULT_FILTER)) is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression genotypeIndex >= 0 && genotypeArray[0] == 0 && genotypeArray[1] == 0 is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression ignoreInsertionLength && alts[0].getSymbolicAllele() != null && alts[0].getSymbolicAllele().getMajor() == Alt.SVType.INS is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression end != null && end.length > 0 && end[0] > 0 is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression alts[0].getSymbolicAllele().getMajor() == Alt.SVType.DUP && ((alts[0].getSymbolicAllele().getMinor() != Alt.SVType.SVSubtype.TRA && alts[0].getSymbolicAllele().getMinor() != Alt.SVType.SVSubtype.ISP && info.getValue("POS2"`getType("POS2")) == null) || alts[0].getSymbolicAllele().getMinor() == Alt.SVType.SVSubtype.TANDEM) is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression end != null && end.length > 0 && end[0] > 0 is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression ignoreInsertionLength && (svlen == null || alts.length != svlen.length) is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression end != null && end.length > 0 && end[0] > 0 is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression end != null && end.length > 0 && end[0] > 0 is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Conditional,The conditional expression alts[0].getSymbolicAllele().getMajor() == Alt.SVType.DUP && (alts[0].getSymbolicAllele().getMinor() == Alt.SVType.SVSubtype.TRA || alts[0].getSymbolicAllele().getMinor() == Alt.SVType.SVSubtype.ISP || info.getValue("POS2"`getType("POS2")) != null) is complex.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Complex Method,Cyclomatic complexity of the method is 102,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Method,The method has 381 lines of code.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "if (ignoreInsertionLength && alts[0].getSymbolicAllele() != null && alts[0].getSymbolicAllele().getMajor() == Alt.SVType.INS) {" is 127.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "log.warn("WARNING: number of symbolic alleles is unequal to number of SV lengths.\n" + line + "\nFor symbolic insertions` can set -ignore_ins_len to ignore SVLEN.");" is 165.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "Variant.Builder template=new Variant.Builder().chr(chr).pos(pos).ref(refs).phase(genotypeArray).isPhased(isGenotypePhased).varId(variantId).filter(FILTER).refDeleted(deletedReference).isLengthImprecise(isLengthImprecise).randomNumberGenerator(random);" is 251.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "else if (alts[0].getSymbolicAllele().getMajor() == Alt.SVType.DUP && ((alts[0].getSymbolicAllele().getMinor() != Alt.SVType.SVSubtype.TRA && alts[0].getSymbolicAllele().getMinor() != Alt.SVType.SVSubtype.ISP && info.getValue("POS2"`getType("POS2")) == null) || alts[0].getSymbolicAllele().getMinor() == Alt.SVType.SVSubtype.TANDEM)) {" is 334.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "alts[0].setSeq(new FlexSeq(FlexSeq.Type.TANDEM_DUP`alternativeAlleleLength`Math.max(copyNumberArray[0]`copyNumberArray[1])));" is 125.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "else if (alts[0].getSymbolicAllele().getMajor() == Alt.SVType.DUP && (alts[0].getSymbolicAllele().getMinor() == Alt.SVType.SVSubtype.TRA || alts[0].getSymbolicAllele().getMinor() == Alt.SVType.SVSubtype.ISP || info.getValue("POS2"`getType("POS2")) != null)) {" is 259.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "alts[altAlleleIndex - 1].setSeq(new FlexSeq(alts[altAlleleIndex - 1].getSymbolicAllele().getMinor() == Alt.SVType.SVSubtype.TRA ? FlexSeq.Type.TRA_DUP : FlexSeq.Type.ISP_DUP`altAllelelength`currentCopyNumber));" is 210.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "return template.referenceAlleleLength(0).alts(alts).chr2(ChrString.string2ChrString(chr2)).pos2(pos2).end2(end2).isinv(isinv).traid(traid == null ? null : traid[0]).build();" is 173.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "if (!clippedSequence.equals(new String(alts[i].getSeq().substring(alts[i].getSeq().length() - minClipLength`alts[i].getSeq().length())))) {" is 139.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Long Statement,The length of the statement "return new Variant.Builder().chr(chr).pos(pos).referenceAlleleLength(refs.length).ref(refs).alts(alts).phase(genotypeArray).isPhased(isGenotypePhased).varId(variantId).filter(FILTER).qual(QUAL).info(infoString).refDeleted(deletedReference).randomNumberGenerator(random).clippedSequence(clippedSequence).build();" is 311.,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 10,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 10,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 10,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 2,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 3,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 4,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 5,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 6,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 7,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 8,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 9,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 2,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 2,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 2,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 2,191
+Varsim,com.bina.varsim.util,VCFparser,processLine,Magic Number,The method contains a magic number: 2,191
+Varsim,com.bina.varsim.util,VCFparser,parseLine,Magic Number,The method contains a magic number: 255,753
+Varsim,com.bina.varsim.util,VCFWriter,generateVCFHeader,Long Statement,The length of the statement "VCFHeader.append("##fileformat=VCFv4.3\n" + "##reference=" + (reference == null ? null : reference.getReferenceFileName()) + "\n"+ "##INFO=<ID=SVLEN`Number=.`Type=Integer`Description=\"Difference in length between REF and ALT alleles. No SVLEN for 0. One SVLEN for each ALT allele.\">\n"+ "##INFO=<ID=SVTYPE`Number=1`Type=String`Description=\"Type of structural variant\">\n"+ "##INFO=<ID=POS2`Number=1`Type=Integer`Description=\"1-based start position of source sequence."+ "if POS2<=END2` then another sequence is inserted at positive strand;"+ "if POS2>=END2` then reversed sequence is inserted at negative strand (insert with inversion)."+ "\">\n"+ "##INFO=<ID=END2`Number=1`Type=Integer`Description=\"1-based end position of source sequence\">\n"+ "##INFO=<ID=END`Number=1`Type=Integer`Description=\"1-based end position of variant\">\n"+ "##INFO=<ID=CHR2`Number=1`Type=String`Description=\"Chromosome of source sequence\">\n"+ "##INFO=<ID=ISINV`Number=1`Type=Flag`Description=\"whether a duplication is inverted\">\n"+ "##INFO=<ID=TRAID`Number=1`Type=String`Description=\"translocation ID\">\n"+ "##INFO=<ID=IMPRECISE_LENGTH`Number=1`Type=Flag`Description=\"SVLEN is imprecise\">\n"+ "##INFO=<ID=VARIANT_OVERALL_TYPE`Number=1`Type=String`Description=\"Overall variant type\">\n"+ "##FORMAT=<ID=GT`Number=1`Type=String`Description=\"Genotype\">\n"+ "##FORMAT=<ID=CN`Number=1`Type=String`Description=\"Copy number genotype."+ "CN is defined as Integer in VCF4.1`4.3` making it impossible to specify multiple CN values"+ "here we changed it to String to allow such behavior."+ "\">\n"+ "##ALT=<ID=DEL`Description=\"Deletion\">\n"+ "##ALT=<ID=DEL:TRA`Description=\"Deletion in translocation\">\n"+ "##ALT=<ID=DUP`Description=\"Duplication\">\n"+ "##ALT=<ID=DUP:TANDEM`Description=\"Tandem Duplication\">\n"+ "##ALT=<ID=DUP:ISP`Description=\"Interspersed duplication\">\n"+ "##ALT=<ID=DUP:TRA`Description=\"Duplication in translocation\">\n"+ "##ALT=<ID=INS`Description=\"Insertion of novel sequence\">\n"+ "##ALT=<ID=INV`Description=\"Inversion\">\n");" is 2054.,17
+Varsim,com.bina.varsim.util,VCFWriter,generateVCFHeader,Long Statement,The length of the statement "VCFHeader.append("#CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO\tFORMAT" + (sampleNames.isEmpty() ? "" : "\t") + joiner.toString()+ "\n");" is 138.,17
+Varsim,com.bina.varsim.util,VCFparserTest,deletionParsingTest,Long Statement,The length of the statement "Variant v=parser.processLine("12\t29557989\t.\tACAAAAGAAATGATCATGTTTGTAGGT\tAAAAAGAAATGATCATGTTTGTAGGT\t.\tPASS\tSVLEN=-26\tGT\t1|1");" is 134.,41
+Varsim,com.bina.varsim.util,VCFparserTest,deletionParsingTest,Long Statement,The length of the statement "assertTrue(v.toString().equals("12\t29557989\t.\tACAAAAGAAATGATCATGTTTGTAGGT\tAAAAAGAAATGATCATGTTTGTAGGT\t.\tPASS\tSVLEN=-26;VARIANT_OVERALL_TYPE=Deletion;SVTYPE=DEL\tGT\t1|1"));" is 178.,41
+Varsim,com.bina.varsim.util,VCFparserTest,insertionParsingTest,Long Statement,The length of the statement "assertTrue(v.toString().equals("12\t29557990\t.\tCTTT\tCGTTTT\t.\tPASS\tSVLEN=-26;VARIANT_OVERALL_TYPE=Insertion\tGT\t1|1"));" is 125.,53
+Varsim,com.bina.varsim.util,VCFparserTest,insertionParsingTest,Magic Number,The method contains a magic number: 2,53
+Varsim,com.bina.varsim.util,VCFparserTest,homopolymerInsertionParsingTest,Long Statement,The length of the statement "assertTrue(v.toString().equals("12\t29557989\t.\tACT\tAAAACT\t.\tPASS\tSVLEN=-26;VARIANT_OVERALL_TYPE=Insertion\tGT\t1|1"));" is 124.,61
+Varsim,com.bina.varsim.util,VCFparserTest,homopolymerInsertionParsingTest,Magic Number,The method contains a magic number: 3,61
+Varsim,com.bina.varsim.util,VCFparserTest,TrimmingTest,Long Statement,The length of the statement "assertTrue(v.toString().equals("chr22\t29904835\t.\tTG\tG\t.\t.\tVARIANT_OVERALL_TYPE=Deletion;SVTYPE=DEL;SVLEN=-1\tGT\t0/1"));" is 127.,69
+Varsim,com.bina.varsim.util,VCFparserTest,addExtraBaseForDeletion,Long Statement,The length of the statement "assertTrue(v.toString().equals("1\t3\t.\tTTTT\tT\t.\tPASS\tSVLEN=-3;VARIANT_OVERALL_TYPE=Deletion;SVTYPE=DEL\tGT\t0|1"));" is 121.,89
+Varsim,com.bina.varsim.util,VCFparserTest,vcfinfoTestDefaultBoolean,Long Statement,The length of the statement "Variant v=parser.processLine("1 111 rs770821123 C A . . RS=770821123;RSPOS=10000111;VP=0x050000080005000002000100;dbSNPBuildID=144;SAO=0;SSR=0;WGT=1;VC=SNV;INT;ASP");" is 166.,94
+Varsim,com.bina.varsim.util,VCFparserTest,vcfinfoTestDefaultBoolean,Long Statement,The length of the statement "assertTrue(v.toString().equals("1\t111\trs770821123\tC\tA\t.\t.\tRS=770821123;RSPOS=10000111;VP=0x050000080005000002000100;dbSNPBuildID=144;SAO=0;SSR=0;WGT=1;VC=SNV;INT;ASP;VARIANT_OVERALL_TYPE=SNP\tGT\t1|1"));" is 210.,94
+Varsim,com.bina.varsim.util,VCFparserTest,illegalSymbolicAllele,Long Statement,The length of the statement "Variant v=parser.processLine("1 111 rs770821123 C DUP:TANDEM> . . RS=770821123;RSPOS=10000111;VP=0x050000080005000002000100;dbSNPBuildID=144;SAO=0;SSR=0;WGT=1;VC=SNV;INT;ASP");" is 176.,100
+Varsim,com.bina.varsim.util,VCFparserTest,multiAllelicSVLEN,Long Statement,The length of the statement "assertTrue(v.toString().compareTo("chr17 43059469 . CACA CACAACA`C . PASS VARIANT_OVERALL_TYPE=Complex;SVLEN=3`-3 GT 1|2") == 0);" is 129.,108
+Varsim,com.bina.varsim.util,VCFparserTest,multiAllelicDELSVLEN,Long Statement,The length of the statement "assertTrue(v.toString().compareTo("chr17\t43059469\t.\tC\t<DEL>\t.\tPASS\tVARIANT_OVERALL_TYPE=Deletion;SVTYPE=DEL;SVLEN=-300\tGT\t1|0") == 0);" is 143.,113
+Varsim,com.bina.varsim.util,VCFparserTest,parsingGT,Long Statement,The length of the statement "assertTrue(v.toString().equals("chr12\t24150060\t.\tT\tTGAGAGA\t.\tPASS\tSVLEN=6;VARIANT_OVERALL_TYPE=Insertion\tGT\t1|1"));" is 124.,118
+Varsim,com.bina.varsim.util,VCFparserTest,multiallelicTrimming,Long Statement,The length of the statement "assertTrue(v.toString().equals("chr12\t24150063\t.\tTTT\tTTTTTTT`TCTTTTTTT\t.\tPASS\tVARIANT_OVERALL_TYPE=Insertion;SVLEN=4`6\tGT\t1/2"));" is 138.,123
+Varsim,com.bina.varsim,VarSim,printUsage,Long Statement,The length of the statement "final String usage="java -jar VarSim.jar <tool> <tool_args>... \n" + " --= Simulation =-- \n" + " randvcf2vcf -- Randomly samples variants from a VCF file\n"+ " randdgv2vcf -- Randomly samples variants from a DGV database file\n"+ " --= Validation =-- \n"+ " vcfcompare -- Generate JSON describing vcf accuracy relative to truth \n"+ " samcompare -- Generate JSON describing alignment accuracy relative to truth \n"+ " vcfstats -- Generate stats on size range and variant types in a VCF\n"+ " --= Internal =-- \n"+ " vcf2diploid -- Enhanced version of vcf2diploid from alleleseq \n"+ " fastq_liftover -- Lifts over simulated FASTQ files to reference coordinates \n"+ " liftover -- Lifts a file to desired coordinates \n"+ "\n";" is 727.,35
+Varsim,com.bina.varsim,VarSim,runVarSimTool,Complex Method,Cyclomatic complexity of the method is 16,54
+Varsim,com.bina.varsim,VarSim,runVarSimTool,Missing default,The following switch statement is missing a default case: !org.eclipse.jdt.core.dom.SwitchStatement@4f2eeae5,54

@@ -506,25 +506,25 @@ public class VCFcompare extends VarSimTool {
             for (int relativePosition = 0; relativePosition < referenceAlleleSequence.length; relativePosition++, currentPosition++) {
 
                 //relative position on alleles (adjusted for insertions/deletions)
-                int[] alleleSpecificRelativePosition = new int[2];
+                int[] alleleSpecific = new int[2];
                 if (end) {
                     //TODO: there are many places a for loop over 0,1 is used to iterate over all genotypes, maybe it's better to use an immutable data structure
                     for (int j = 0; j < 2; j++) {
                       //recall: diff[j] = alt[j].length - ref.length
                         if (relativePosition < referenceAlleleSequence.length + alleleLengthDifference[j]) {
-                            alleleSpecificRelativePosition[j] = relativePosition;
+                            alleleSpecific[j] = relativePosition;
                         } else {
-                            alleleSpecificRelativePosition[j] = -1; // we are into deleted bases
+                            alleleSpecific[j] = -1; // we are into deleted bases
                         }
                     }
                 } else {
                     for (int j = 0; j < 2; j++) {
                         //this one dictates that canonicalized variants will be located on the right end of reference allele
-                        alleleSpecificRelativePosition[j] = relativePosition + alleleLengthDifference[j];
+                        alleleSpecific[j] = relativePosition + alleleLengthDifference[j];
                     }
                 }
 
-                if (alleleSpecificRelativePosition[0] < 0 && alleleSpecificRelativePosition[1] < 0) {
+                if (alleleSpecific[0] < 0 && alleleSpecific[1] < 0) {
                     // both deleted
                     /*
                     AGG
@@ -532,8 +532,8 @@ public class VCFcompare extends VarSimTool {
                     --G
                     ^    the scenario this if statement deals with
                      */
-                } else if (alleleSpecificRelativePosition[0] >= 0 && alleleSpecificRelativePosition[1] < 0 &&
-                           alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] != referenceAlleleSequence[relativePosition]) {
+                } else if (alleleSpecific[0] >= 0 && alleleSpecific[1] < 0 &&
+                           alternativeAlleleSequence[0][alleleSpecific[0]] != referenceAlleleSequence[relativePosition]) {
                     /* one deleted, hence the other is homozygous
                     e.g. ref: AGG, alts: C,CT
                     if we visualize the alignment, it looks like
@@ -544,20 +544,20 @@ public class VCFcompare extends VarSimTool {
                     */
                     byte[] phase = {1, 1};
                     Alt alt = new Alt();
-                    alt.setSeq(new FlexSeq(alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]]));
+                    alt.setSeq(new FlexSeq(alternativeAlleleSequence[0][alleleSpecific[0]]));
                     variantList.add(template.pos(currentPosition).referenceAlleleLength(1).
                             ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(new Alt[]{alt}).phase(phase).build());
-                } else if (alleleSpecificRelativePosition[0] < 0 && alleleSpecificRelativePosition[1] >= 0 &&
-                        alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] != referenceAlleleSequence[relativePosition]) {
+                } else if (alleleSpecific[0] < 0 && alleleSpecific[1] >= 0 &&
+                        alternativeAlleleSequence[1][alleleSpecific[1]] != referenceAlleleSequence[relativePosition]) {
                     // one deleted, hence the other is homozygous
                     //same as above but two alleles switch
                     byte[] phase = {1, 1};
                     Alt alt = new Alt();
-                    alt.setSeq(new FlexSeq(alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]]));
+                    alt.setSeq(new FlexSeq(alternativeAlleleSequence[1][alleleSpecific[1]]));
                     variantList.add(template.pos(currentPosition).referenceAlleleLength(1).
                             ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(new Alt[]{alt}).phase(phase).build());
-                } else if (alleleSpecificRelativePosition[0] >= 0 && alleleSpecificRelativePosition[1] < 0 &&
-                           alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] == referenceAlleleSequence[relativePosition]) {
+                } else if (alleleSpecific[0] >= 0 && alleleSpecific[1] < 0 &&
+                           alternativeAlleleSequence[0][alleleSpecific[0]] == referenceAlleleSequence[relativePosition]) {
                     // ref call with del
                   /*
                     AGG
@@ -565,12 +565,12 @@ public class VCFcompare extends VarSimTool {
                     --C
                      ^  the scenario this if statement deals with
                     */
-                } else if (alleleSpecificRelativePosition[0] < 0 && alleleSpecificRelativePosition[1] >= 0 &&
-                        alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] == referenceAlleleSequence[relativePosition]) {
+                } else if (alleleSpecific[0] < 0 && alleleSpecific[1] >= 0 &&
+                        alternativeAlleleSequence[1][alleleSpecific[1]] == referenceAlleleSequence[relativePosition]) {
                     // ref call with del
                   //same as above but switch alleles
-                } else if (alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] == referenceAlleleSequence[relativePosition] &&
-                        alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] == referenceAlleleSequence[relativePosition]) {
+                } else if (alternativeAlleleSequence[0][alleleSpecific[0]] == referenceAlleleSequence[relativePosition] &&
+                        alternativeAlleleSequence[1][alleleSpecific[1]] == referenceAlleleSequence[relativePosition]) {
                     // ref call
                   /*
                     AGG
@@ -578,7 +578,7 @@ public class VCFcompare extends VarSimTool {
                     --G
                       ^  the scenario this if statement deals with
                     */
-                } else if (alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] == alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]]) {
+                } else if (alternativeAlleleSequence[0][alleleSpecific[0]] == alternativeAlleleSequence[1][alleleSpecific[1]]) {
                     // homozygous non-reference alleles
                   /*
                     AGG
@@ -588,11 +588,11 @@ public class VCFcompare extends VarSimTool {
                     */
                     byte[] phase = {1, 1};
                     Alt alt = new Alt();
-                    alt.setSeq(new FlexSeq(alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]]));
+                    alt.setSeq(new FlexSeq(alternativeAlleleSequence[0][alleleSpecific[0]]));
                     variantList.add(template.pos(currentPosition).referenceAlleleLength(1).
                             ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(new Alt[]{alt}).phase(phase).build());
-                } else if (alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]] != referenceAlleleSequence[relativePosition] &&
-                        alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]] != referenceAlleleSequence[relativePosition]) {
+                } else if (alternativeAlleleSequence[0][alleleSpecific[0]] != referenceAlleleSequence[relativePosition] &&
+                        alternativeAlleleSequence[1][alleleSpecific[1]] != referenceAlleleSequence[relativePosition]) {
                     // het but both alt
                   /*
                     AGG
@@ -604,8 +604,8 @@ public class VCFcompare extends VarSimTool {
                     Alt[] alts = new Alt[2];
                     alts[0] = new Alt();
                     alts[1] = new Alt();
-                    alts[0].setSeq(new FlexSeq(alternativeAlleleSequence[0][alleleSpecificRelativePosition[0]]));
-                    alts[1].setSeq(new FlexSeq(alternativeAlleleSequence[1][alleleSpecificRelativePosition[1]]));
+                    alts[0].setSeq(new FlexSeq(alternativeAlleleSequence[0][alleleSpecific[0]]));
+                    alts[1].setSeq(new FlexSeq(alternativeAlleleSequence[1][alleleSpecific[1]]));
                     variantList.add(template.pos(currentPosition).referenceAlleleLength(1).
                             ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(alts).phase(phase).build());
                 } else {
@@ -617,11 +617,11 @@ public class VCFcompare extends VarSimTool {
                       ^  the scenario this if statement deals with
                     */
                     for (int a = 0; a < 2; a++) {
-                        if (alternativeAlleleSequence[a][alleleSpecificRelativePosition[a]] != referenceAlleleSequence[relativePosition]) {
+                        if (alternativeAlleleSequence[a][alleleSpecific[a]] != referenceAlleleSequence[relativePosition]) {
                             byte[] phase = {0, 0};
                             phase[a] = 1;
                             Alt alt = new Alt();
-                            alt.setSeq(new FlexSeq(alternativeAlleleSequence[a][alleleSpecificRelativePosition[a]]));
+                            alt.setSeq(new FlexSeq(alternativeAlleleSequence[a][alleleSpecific[a]]));
                             variantList.add(template.pos(currentPosition).referenceAlleleLength(1).
                                     ref(new byte[]{referenceAlleleSequence[relativePosition]}).alts(new Alt[]{alt}).phase(phase).build());
                         }

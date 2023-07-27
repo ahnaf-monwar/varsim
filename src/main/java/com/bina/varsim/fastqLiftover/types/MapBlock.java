@@ -10,10 +10,10 @@ public class MapBlock implements Comparable<MapBlock> {
     public int direction;
     public String name;
 
-    public MapBlock(final int size, final ChrString srcChr, final int srcLocation, final ChrString dstChr, final int dstLocation, final String direction, final String featureType, final String name) {
-        this.size = size;
-        srcLoc = new GenomeLocation(srcChr, srcLocation);
-        dstLoc = new GenomeLocation(dstChr, dstLocation);
+    public MapBlock(MapParameters mapParameters, final int dstLocation, final String direction, final String featureType, final String name) {
+        this.size = mapParameters.getSize();
+        srcLoc = new GenomeLocation(mapParameters.getSrcChr(), mapParameters.getSrcLocation());
+        dstLoc = new GenomeLocation(mapParameters.getDstChr(), dstLocation);
         this.direction = direction.equals("+") ? 0 : 1;
         this.blockType = BlockType.fromName(featureType);
         this.name = name;
